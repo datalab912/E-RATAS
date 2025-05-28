@@ -24,13 +24,15 @@ E-RATAS transforms the automatic scoring of textual answers by introducing two c
 
 Each node in ACT and RKT includes generated metadata (e.g., summaries, goals, influence scores), enabling fine-grained matching and scoring through transformer-based NLP models and generative LLMs.
 
-![Architecture](https://github.com/datalab912/E-RATAS/assets/your_architecture_image.png)
+
 
 ---
+[Final-HLA.pdf](https://github.com/user-attachments/files/20491244/Final-HLA.pdf)
+
 
 ## ⚙️ Core Modules
 
-[Final-HLA.pdf](https://github.com/user-attachments/files/20491212/Final-HLA.pdf)
+
 
 ### 1. ACT Constructor (`/ACT`)
 Builds the Answer Content Tree by:
