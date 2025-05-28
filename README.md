@@ -2,9 +2,6 @@
 
 E-RATAS (Enhanced Rubric-Aware Tree-based Automated Scoring) is a scalable, interpretable, and modular framework for automatic grading of textual exam responses, including both **short and long-form open-ended answers**. It addresses the challenges of complex, structured rubrics and diverse response types using contextualized tree structures and LLM-based reasoning.
 
-> 📄 [Read the Full Paper](https://github.com/datalab912/E-RATAS)  
-> 📊 Presented at **ACM CIKM 2025**, Seoul
-
 ---
 
 ## 📦 Repository Structure
@@ -32,7 +29,8 @@ Each node in ACT and RKT includes generated metadata (e.g., summaries, goals, in
 ---
 
 ## ⚙️ Core Modules
-[Final-HLA.pdf](https://github.com/user-attachments/files/20491195/Final-HLA.pdf)
+
+[Final-HLA.pdf](https://github.com/user-attachments/files/20491212/Final-HLA.pdf)
 
 ### 1. ACT Constructor (`/ACT`)
 Builds the Answer Content Tree by:
