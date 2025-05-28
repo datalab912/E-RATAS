@@ -7,10 +7,15 @@ E-RATAS (Enhanced Rubric-Aware Tree-based Automated Scoring) is a scalable, inte
 ## 📦 Repository Structure
 
 E-RATAS/
+
 │
+
 ├── ACT/ # ACT construction engine
+
 ├── RKT/ # RKT construction engine
+
 ├── Matching_Scoring/ # Score and Reasoning modules
+
 └── README.md # Project overview and setup instructions
 
 
@@ -23,11 +28,12 @@ E-RATAS transforms the automatic scoring of textual answers by introducing two c
 - **RKT (Rubric Knowledge Tree):** Represents structured rubrics with nested, semantically-aware rules.
 
 Each node in ACT and RKT includes generated metadata (e.g., summaries, goals, influence scores), enabling fine-grained matching and scoring through transformer-based NLP models and generative LLMs.
+![image](https://github.com/user-attachments/assets/69389c72-3b4a-4aa2-8e16-a4ad91e3c948)
 
 
 
 ---
-[Final-HLA.pdf](https://github.com/user-attachments/files/20491244/Final-HLA.pdf)
+
 
 
 ## ⚙️ Core Modules
