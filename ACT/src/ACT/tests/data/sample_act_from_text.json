@@ -1,0 +1,148 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "1.1.1",
+                            "name": "Sample Heading",
+                            "nodeType": "Section",
+                            "page": null,
+                            "text": "\n\n"
+                        }
+                    ],
+                    "goal": null,
+                    "id": "1.1",
+                    "name": "Background and Problem Statement:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Briefly introduce the problem your project addresses in the field of data science. Highlight the importance and potential impact of finding a solution.)\n\n*Sample: \"Data quality is a persistent challenge across industries. Inaccurate or incomplete data leads to flawed analysis, poor decision-making, and reduced efficiency. This project aims to develop...\"\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "1.2",
+                    "name": "Research Questions:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(State the primary questions your research seeks to answer.)\n\n*Sample: \"1) How can natural language processing techniques be applied to effectively detect anomalies in structured data?  2) ...\"\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "1.3",
+                    "name": "Project Goals and Scope:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Outline the specific objectives and intended deliverables of your project.)\n\n*Sample: \"This project aims to develop a prototype anomaly detection system. The scope includes data preprocessing, model selection, and a basic user interface.\"\n\n"
+                }
+            ],
+            "goal": null,
+            "id": 1,
+            "name": "Introduction",
+            "nodeType": "Section",
+            "page": null,
+            "text": "\n\n"
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "2.1",
+                    "name": "Data Quality and Anomaly Detection:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Survey existing research, techniques, and benchmark studies in this field.)\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "2.2",
+                    "name": "Applications of NLP in Data Quality:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Explore how NLP has been used for tasks like entity recognition, data cleaning, etc.)\n\n"
+                }
+            ],
+            "goal": null,
+            "id": 2,
+            "name": "Literature Review",
+            "nodeType": "Section",
+            "page": null,
+            "text": "\n\n"
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "3.1",
+                    "name": "Data Collection and Preprocessing:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Describe your data sources, any cleaning or transformation steps required.)\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "3.2",
+                    "name": "Feature Engineering:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Explain features derived from the data, techniques used like TF-IDF, dimensionality reduction,etc.)\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "3.3",
+                    "name": "Model Selection and Evaluation:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Discuss the choice of algorithms, evaluation metrics like precision/recall, techniques for hyperparameter tuning.)\n\n"
+                }
+            ],
+            "goal": null,
+            "id": 3,
+            "name": "Methodology",
+            "nodeType": "Section",
+            "page": null,
+            "text": "\n\n"
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "4.1",
+                    "name": "Experimental Setup:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Describe hardware, software, performance metrics.)\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "4.2",
+                    "name": "Model Performance:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Present results with tables/graphs, compare different model performances, discuss key findings.)\n\n"
+                },
+                {
+                    "goal": null,
+                    "id": "4.3",
+                    "name": "Limitations and Future Work:",
+                    "nodeType": "Section",
+                    "page": null,
+                    "text": "\n(Acknowledge shortcomings of the current work, suggest areas for improvement or expansion.)"
+                }
+            ],
+            "goal": null,
+            "id": 4,
+            "name": "Results and Discussion",
+            "nodeType": "Section",
+            "page": null,
+            "text": "\n\n"
+        }
+    ],
+    "goal": null,
+    "id": 0,
+    "name": "sample_act_input.txt",
+    "nodeType": "Root",
+    "page": null,
+    "text": null
+}

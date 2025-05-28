@@ -1,0 +1,7 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [
+        "./yirigaa_nlp/ACT/src"
+    ]
+}

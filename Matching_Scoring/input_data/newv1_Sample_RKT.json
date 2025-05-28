@@ -1,0 +1,341 @@
+{
+    "id": ".1",
+    "leaf": 0,
+    "criteria": null,
+    "criteria_simplified_version": [
+        "The document should be divided to 3 subsections from week 1 to week 3 subsections (essemtial)\n\nfor all subsections related to weeks from 1 to 3, the subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication experience with others and organizations. ",
+        "For subsection week 1, include information related to assignments"
+    ],
+    "separate_criteria_number": 2,
+    "title": "Documentation Communication or Happening, and a Assignment-Related Detail of Connection an Inclusion Task, Detailing Event, Information Coverage Activity Assignment, Observation Experience",
+    "related_answer_section": [
+        "whole document",
+        "whole document"
+    ],
+    "score_source_ID": [
+        1,
+        2
+    ],
+    "score_source": [
+        0.7,
+        0.3
+    ],
+    "influence_type": null,
+    "influence_on_scoring": 100,
+    "list_sub_condition_score": [
+        [],
+        []
+    ],
+    "score_breakdown": [],
+    "matching_percentage": [],
+    "reasons": [],
+    "score_source_percentage": null,
+    "children": [
+        {
+            "id": ".1.1",
+            "leaf": 0,
+            "criteria": "The document should be divided to 3 subsections from week 1 to week 3 subsections (essemtial)\n\nfor all subsections related to weeks from 1 to 3, the subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication experience with others and organizations. ",
+            "criteria_simplified_version": [
+                "For subsection week 1 (essential), include information about:\n1. At least one assignment, task, or activity\n2. At least one happening, event, or observation\n3. At least one connection and communication experience with others and organizations",
+                "For subsection week 2 (essential), include information about:\n1. At least one assignment, task, or activity\n2. At least one happening, event, or observation\n3. At least one connection and communication experience with others and organizations",
+                "For subsection week 3 (essential), include information about:\n1. At least one assignment, task, or activity\n2. At least one happening, event, or observation\n3. At least one connection and communication experience with others and organizations"
+            ],
+            "separate_criteria_number": 3,
+            "title": "Connection Task, an Documentation Inclusion Detailing Happening, Communication and a Event, Detail of Activity Assignment, or Observation Experience",
+            "related_answer_section": "whole document",
+            "score_source_ID": 1,
+            "score_source": 0.7,
+            "influence_type": "AND",
+            "influence_on_scoring": 50.0,
+            "list_sub_condition_score": [],
+            "score_breakdown": [],
+            "matching_percentage": [],
+            "reasons": [],
+            "score_source_percentage": null,
+            "children": [
+                {
+                    "id": ".1.1.1",
+                    "leaf": 0,
+                    "criteria": "For subsection week 1 (essential), include information about:\n1. At least one assignment, task, or activity\n2. At least one happening, event, or observation\n3. At least one connection and communication experience with others and organizations",
+                    "criteria_simplified_version": [
+                        "For subsection week 1 (essential), include information about at least one assignment, task, or activity",
+                        "For subsection week 1 (essential), include information about at least one happening, event, or observation",
+                        "For subsection week 1 (essential), include information about at least one connection and communication experience with others and organizations"
+                    ],
+                    "separate_criteria_number": 3,
+                    "title": "Connection Task, an Documentation Inclusion Detailing Happening, Communication and a Event, Activity Detail of Assignment, or Observation Experience",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": "AND",
+                    "influence_on_scoring": 16.666666666666668,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score_source_percentage": null,
+                    "children": [
+                        {
+                            "id": ".1.1.1.1",
+                            "leaf": 1,
+                            "criteria": "For subsection week 1 (essential), include information about at least one assignment, task, or activity",
+                            "criteria_simplified_version": [
+                                "For subsection week 1 (essential), include information about at least one assignment, task, or activity"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Documentation of an Assignment, Task, or Activity",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.1.2",
+                            "leaf": 1,
+                            "criteria": "For subsection week 1 (essential), include information about at least one happening, event, or observation",
+                            "criteria_simplified_version": [
+                                "For subsection week 1 (essential), include information about at least one happening, event, or observation"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Inclusion of a Happening, Event, or Observation Detail",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.1.3",
+                            "leaf": 1,
+                            "criteria": "For subsection week 1 (essential), include information about at least one connection and communication experience with others and organizations",
+                            "criteria_simplified_version": [
+                                "For subsection week 1 (essential), include information about at least one connection and communication experience with others and organizations"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Detailing a Connection and Communication Experience",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": ".1.1.2",
+                    "leaf": 0,
+                    "criteria": "For subsection week 2 (essential), include information about:\n1. At least one assignment, task, or activity\n2. At least one happening, event, or observation\n3. At least one connection and communication experience with others and organizations",
+                    "criteria_simplified_version": [
+                        "For subsection week 2 (essential), include information about at least one assignment, task, or activity",
+                        "For subsection week 2 (essential), include information about at least one happening, event, or observation",
+                        "For subsection week 2 (essential), include information about at least one connection and communication experience with others and organizations"
+                    ],
+                    "separate_criteria_number": 3,
+                    "title": "Connection Task, an Documentation Inclusion Detailing Happening, Communication and a Event, Activity Detail of Assignment, or Observation Experience",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": "AND",
+                    "influence_on_scoring": 16.666666666666668,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score_source_percentage": null,
+                    "children": [
+                        {
+                            "id": ".1.1.2.1",
+                            "leaf": 1,
+                            "criteria": "For subsection week 2 (essential), include information about at least one assignment, task, or activity",
+                            "criteria_simplified_version": [
+                                "For subsection week 2 (essential), include information about at least one assignment, task, or activity"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Documentation of an Assignment, Task, or Activity",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.2.2",
+                            "leaf": 1,
+                            "criteria": "For subsection week 2 (essential), include information about at least one happening, event, or observation",
+                            "criteria_simplified_version": [
+                                "For subsection week 2 (essential), include information about at least one happening, event, or observation"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Inclusion of a Happening, Event, or Observation Detail",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.2.3",
+                            "leaf": 1,
+                            "criteria": "For subsection week 2 (essential), include information about at least one connection and communication experience with others and organizations",
+                            "criteria_simplified_version": [
+                                "For subsection week 2 (essential), include information about at least one connection and communication experience with others and organizations"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Detailing a Connection and Communication Experience",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": ".1.1.3",
+                    "leaf": 0,
+                    "criteria": "For subsection week 3 (essential), include information about:\n1. At least one assignment, task, or activity\n2. At least one happening, event, or observation\n3. At least one connection and communication experience with others and organizations",
+                    "criteria_simplified_version": [
+                        "For subsection week 3 (essential), include information about at least one assignment, task, or activity",
+                        "For subsection week 3 (essential), include information about at least one happening, event, or observation",
+                        "For subsection week 3 (essential), include information about at least one connection and communication experience with others and organizations"
+                    ],
+                    "separate_criteria_number": 3,
+                    "title": "Connection Task, an Documentation Inclusion Detailing Happening, Communication and a Event, Activity Detail of Assignment, or Observation Experience",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": "AND",
+                    "influence_on_scoring": 16.666666666666668,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score_source_percentage": null,
+                    "children": [
+                        {
+                            "id": ".1.1.3.1",
+                            "leaf": 1,
+                            "criteria": "For subsection week 3 (essential), include information about at least one assignment, task, or activity",
+                            "criteria_simplified_version": [
+                                "For subsection week 3 (essential), include information about at least one assignment, task, or activity"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Documentation of an Assignment, Task, or Activity",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.3.2",
+                            "leaf": 1,
+                            "criteria": "For subsection week 3 (essential), include information about at least one happening, event, or observation",
+                            "criteria_simplified_version": [
+                                "For subsection week 3 (essential), include information about at least one happening, event, or observation"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Inclusion of a Happening, Event, or Observation Detail",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.3.3",
+                            "leaf": 1,
+                            "criteria": "For subsection week 3 (essential), include information about at least one connection and communication experience with others and organizations",
+                            "criteria_simplified_version": [
+                                "For subsection week 3 (essential), include information about at least one connection and communication experience with others and organizations"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Detailing a Connection and Communication Experience",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": "AND",
+                            "influence_on_scoring": 5.555555555555556,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score_source_percentage": null,
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": ".1.2",
+            "leaf": 1,
+            "criteria": "For subsection week 1, include information related to assignments",
+            "criteria_simplified_version": [
+                "For subsection week 1, include information related to assignments"
+            ],
+            "separate_criteria_number": 1,
+            "title": "Coverage of Assignment-Related Information",
+            "related_answer_section": "whole document",
+            "score_source_ID": 2,
+            "score_source": 0.3,
+            "influence_type": "AND",
+            "influence_on_scoring": 50.0,
+            "list_sub_condition_score": [],
+            "score_breakdown": [],
+            "matching_percentage": [],
+            "reasons": [],
+            "score_source_percentage": null,
+            "children": []
+        }
+    ]
+}

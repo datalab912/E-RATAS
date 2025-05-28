@@ -1,0 +1,632 @@
+NodeIDB1:N1	Document Clear Criteria (input of the Topic Modeling)(input of title generation)	Simplifiezed version of Criteria (Output of title modeling)
+1	The Document should have title page (essential). 
+(No title page, then -10%)
+The title page of the report must include:
+a. Name of the organization
+b. Name of the internee, Student ID and session
+c. Submission date of the internship report
+d. Name of the University	*Existing Title Page Section
+*Existing Name of the organization
+*Existing Name of the internee, Student ID and session
+*Existing Submission date of the internship report
+*Existing  Name of the University
+1.1	Existing Title Page Section (essential)	No Need
+1.2	Existing Name of the organization	No Need
+1.3	Existing Name of the internee, Student ID and session	No Need
+1.4	Existing Submission date of the internship report	No Need
+1.5	Existing Name of the University	No Need
+2	The document shoud have acknowlegement section.(essential)
+ this section must acknowledge the help and support of all the people who helped you in completion of
+your internship and internship report.	*Existing Acknowledment section
+*Acknodlegment section have content related to aknowledge   the help and support of all the people who helped you in completion of your internship and internship report
+2.1	Existing Acknowledment section(essential)	No Need
+2.2	Acknodlegment section have content related to aknowledge   the help and support of all the people who helped you in completion of your internship and internship report	No Need
+3	Existing Executive Summury Section(essential)
+The content of Executive summary should cover a preview about :
+organization overview, organization structure,  the part of the organization that student worked in, about the task and project, about the plan of internship	*Existing Executive Summury Section
+*The content of Executive summary should cover a preview about :
+organization overview, organization structure,  the part of the organization that student worked in, about the task and project, about the plan of internship
+3.1	Existing Executive Summury Section (essential)	 
+3.2	The content of Executive summary should cover a preview about :
+organization overview and structure,   the part of the organization that student worked in, about the task and project, about the plan of internship	*The content of Executive summary should cover a preview about organization overview, organization structure
+*The content of Executive summary should cover a preview *The content of Executive summary should cover  the part of the organization that student worked in
+*The content of Executive summary should coverthe task and project
+*The content of Executive summary should cover plan of internship
+3.2.1	*The content of Executive summary should cover a preview about organization overview, organization structure	No Need
+3.2.2	*The content of Executive summary should cover a preview *The content of Executive summary should cover  the part of the organization that student worked in	No Need
+3.2.3	*The content of Executive summary should coverthe task and project	No Need
+3.2.4	*The content of Executive summary should cover plan of internship	No Need
+4	Existing Table of the Content(essential)	*Existing Table of the Content
+5	the document should have overview of the organization Section(essential)
+overview of Organization Section sould cover these content: 
+a. Brief history
+b. Introduction of the organization
+c. Policy of the organization
+d. Competitors	*Existing Organization structure Section
+*Organization Section sould cover these content: 
+a. Brief history
+b. Introduction of the organization
+c. Policy of the organization
+d. Competitors
+5.1	Existing overview of the Organization structure Section(essential)	No Need
+5.2	Organization Section sould cover these content: 
+a. Brief history
+b. Introduction of the organization
+c. Policy of the organization
+d. Competitors	*Organization section should have a brief history
+*Organization section should have a Introduction of the organization
+*Organization section should cover Policy of the organization
+*Organization section should cover Competitors
+5.2.1	Organization section should have a brief history	No Need
+5.2.2	Organization section should have a Introduction of the organization	No Need
+5.2.3	Organization section should cover Policy of the organization	No Need
+5.2.4	Organization section should cover Competitors	No Need
+6	the document should have  Organization structure Section(essential)
+Organization structure Section sould cover these contents:
+a. Organizational Hierarchy chart
+b. Number of employees
+c. Main offices
+d. Introduction of all the departments
+e. Students' Comments on the organizational structure	*the document should have  Organization structure Section
+*Organization structure Section sould cover these contents:
+a. Organizational Hierarchy chart
+b. Number of employees
+c. Main offices
+d. Introduction of all the departments
+e. Students' Comments on the organizational structure
+6.1	the document should have  Organization structure Section(essential)	No Need
+6.2	Organization structure Section sould cover these contents:
+a. Organizational Hierarchy chart
+b. Number of employees
+c. Main offices
+d. Introduction of all the departments
+e. Students' Comments on the organizational structure	*Organization Structure Section sould cover Organizational Hierarchy chart
+*Organization Structure Section sould cover Number of employees
+*Organization Structure Section sould cover Main offices
+*Organization Structure Section sould cover Introduction of all the departments
+*Organization Structure Section sould cover Students' Comments on the organizational structuret
+6.2.1	Organization Structure Section sould cover Organizational Hierarchy chart	No Need
+6.2.2	Organization Structure Section sould cover Number of employees	No Need
+6.2.3	Organization Structure Section sould cover Main offices	No Need
+6.2.4	Organization Structure Section sould cover Introduction of all the departments	No Need
+6.2.5	Organization Structure Section sould cover Students' Comments on the organizational structuret	No Need
+7	The document should have Plan of your internship program Scetion (essential)
+Plan of your internship program Scetion sould cover these contents:
+a. A brief introduction of the branch/ area office of the organization where you did your internship
+b. Starting and ending dates of your internship
+c. mention Part-time or Full-time fo the intership
+d. Names of the departments in which you got training and the duration of your training	*The document should have Plan of your internship program Scetion
+*Plan of your internship program Scetion sould cover these contents:
+a. A brief introduction of the branch/ area office of the organization where you did your internship
+b. Starting and ending dates of your internship
+c. mention Part-time or Full-time fo the intership
+d. Names of the departments in which you got training and the duration of your training
+7.1	The document should have Plan of your internship program Scetion (essential)	No Need
+7.2	Plan of your internship program Scetion sould cover these contents:
+a. A brief introduction of the branch/ area office of the organization where you did your internship
+b. Starting and ending dates of your internship
+c. mention Part-time or Full-time fo the intership
+d. Names of the departments in which you got training and the duration of your training	*Plan of your internship program Scetion sould cover A brief introduction of the branch/ area office of the
+*Plan of your internship program Scetion sould cover Starting and ending dates of your internship
+*Plan of your internship program Scetion sould mention Part-time or Full-time fo the intership
+*Plan of your internship program Scetion sould cover Names of the departments in which you got training and the duration of your training
+7.2.1	Plan of your internship program Scetion sould cover A brief introduction of the branch/ area office of the	No Need
+7.2.2	Plan of your internship program Scetion sould cover Starting and ending dates of your internship	No Need
+7.2.3	Plan of your internship program Scetion sould mention Part-time or Full-time fo the intership	No Need
+7.2.4	Plan of your internship program Scetion sould cover Names of the departments in which you got training and the duration of your training	No Need
+8	The document should have Training Program Section (essential)
+The Training Program Section should cover these contents:
+a. Detailed description of the operations/activities performed by the department(s) you worked in.
+b.Detailed description of the project assigned to students during the	*The document should have Training Program Section
+*The Training Program Section should cover these contents:
+a. Detailed description of the operations/activities performed by the department(s) you worked in.
+b.Detailed description of the project assigned to students during the
+8.1	The document should have Training Program Section (essential)	No Need
+8.2	The Training Program Section should cover these contents:
+a. Detailed description of the operations/activities performed by the department(s) you worked in.
+b.Detailed description of the project assigned to students during the	*The Training Program Section should cover Detailed description of the operations/activities performed by the department(s) you worked in.
+*The Training Program Section should cover Detailed description of the project assigned to students during the
+8.2.1	The Training Program Section should cover Detailed description of the operations/activities performed by the department(s) you worked in.	No Need
+8.2.2	The Training Program Section should cover Detailed description of the project assigned to students during the	No Need
+9	The document should have a seprate section for reflective journal section. (essential)
+reflective journal section sould be divided to 13 subsections from week 1 to week 13 subsections
+for all subsections related to weeks from 1 to 13, the  subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations 
+For all subsection week 1 to week 13 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+for all events or happening or obeservation:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+For all connection and Communication expreince with others and organizations:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations
+	*The document should have a seprate section for reflective journal section.
+*reflective journal section sould be divided to 13 subsections from week 1 to week 13 subsections
+*for all subsections related to weeks from 1 to 13, the  subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations 
+For all subsection week 1 to week 13 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+for all events or happening or obeservation:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+For all connection and Communication expreince with others and organizations:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations
+9.1	The document should have a seprate section for reflective journal section. (essential)
+	No Need
+9.2	reflective journal section sould be divided to 13 subsections from week 1 to week 13 subsections	No Need
+9.3	for all subsections related to weeks from 1 to 13, the  subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations 
+For all subsection week 1 to week 13 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+for all events or happening or obeservation:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+For all connection and Communication expreince with others and organizations:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations	* Subsections week 1 should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations 
+For subsection week 1 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+------------relted criteria ----------
+for all events or happening or obeservation:
+------------relted criteria ----------
+For all connection and Communication expreince with others and organizations
+------------relted criteria ----------
+
+* Subsections week 2
+------Same criteria-----
+* Subsections week 3
+------Same criteria-----
+* Subsections week 4
+------Same criteria-----
+* Subsections week 5
+------Same criteria-----
+* Subsections week 6
+------Same criteria-----
+* Subsections week 7
+------Same criteria-----
+* Subsections week 8
+------Same criteria-----
+* Subsections week 9
+------Same criteria-----
+* Subsections week 10
+------Same criteria-----
+* Subsections week 11
+------Same criteria-----
+* Subsections week 12
+------Same criteria-----
+* Subsections week 13
+------Same criteria-----
+* Subsections week 3
+------Same criteria-----
+9.3.1 
+(related to week 1)	subsection weeks 1 should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations 
+For subsection week 1 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+for all events or happening or obeservation:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+For all connection and Communication expreince with others and organizations:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations	*subsection weeks 1 should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations 
+*For subsection week 1 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+for all events or happening or obeservation:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+For all connection and Communication expreince with others and organizations:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations
+9.3.1.1	subsection weeks 1 should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication expreince with others and organizations	*subsection weeks 1 should cover related information about  at least one assignment or tasks or activities
+*subsection weeks 1 should cover related information about at least one happenings or events or observation 
+*subsection weeks 1 should cover related information about at least one connection and Communication expreince with others and organizations
+9.3.1.1.1	*subsection weeks 1 should cover related information about  at least one assignment or tasks or activities	No Need
+9.3.1.1.2	*subsection weeks 1 should cover related information about at least one happenings or events or observation	No Need
+9.3.1.1.3	*subsection weeks 1 should cover related information about at least one connection and Communication expreince with others and organizations	No Need
+9.3.1.2	For subsection week 1 the information related to 1- assignment or tasks or activities 2- happenings or events or observation 3- connection and Communication expreince with others and organizations  should cover these contents:
+for all tasks and assignemnt and activities, describe : 
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+for all events or happening or obeservation:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+For all connection and Communication expreince with others and organizations:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations	*For subsection week 1 the information related to assignment or tasks or activities should cover these content:
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie
+*For subsection week 1 the information related to happenings or events or observation sould cover these contents:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation
+*For subsection week 1 the information connection and Communication expreince with others and organizations   should cover these contents:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations
+9.3.1.2.1	For subsection week 1 the information related to assignment or tasks or activities should cover these content:
+- Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+-Describe objectively, hypotheses of the tasks or assignments or activities
+-Describe conclusions of the Students about the tasks or assignments or activities 
+-Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+-Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+-Evaluate student's gains in understanding and completing tasks or assignments or activitie
+-Plan how the laearning from doing tasks or assignments or activities will be useful to students
+- What are the student's recommendations about the tasks or assignments or activitie
+-how the student feel about the learning during doing the tasks or assignments or activitie
+-Demonstrate transfer of learning during doing the tasks or assignments or activitie	*Evaluate the effectiveness and efficiency of the tasks or assignments or activities
+*Describe objectively, hypotheses of the tasks or assignments or activities
+*Describe conclusions of the Students about the tasks or assignments or activities 
+*Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future
+*Analyze the student's own performance as a learner during doing of the tasks or assignments or activities
+*Evaluate student's gains in understanding and completing tasks or assignments or activitie
+*Plan how the laearning from doing tasks or assignments or activities will be useful to students
+*What are the student's recommendations about the tasks or assignments or activitie
+*how the student feel about the learning during doing the tasks or assignments or activitie
+*Demonstrate transfer of learning during doing the tasks or assignments or activitie
+9.3.1.2.1.1	*Evaluate the effectiveness and efficiency of the tasks or assignments or activities	No Need
+9.3.1.2.1.2	*Describe objectively, hypotheses of the tasks or assignments or activities	No Need
+9.3.1.2.1.3	*Describe conclusions of the Students about the tasks or assignments or activities	No Need
+9.3.1.2.1.4	*Describe in what ways the learning experience from doing the tasks or assignments or activitie will serve student in their future	No Need
+9.3.1.2.1.5	*Analyze the student's own performance as a learner during doing of the tasks or assignments or activities	No Need
+9.3.1.2.1.6	*Evaluate student's gains in understanding and completing tasks or assignments or activitie	No Need
+9.3.1.2.1.7	*Plan how the laearning from doing tasks or assignments or activities will be useful to students	No Need
+9.3.1.2.1.8	*What are the student's recommendations about the tasks or assignments or activitie	No Need
+9.3.1.2.1.9	*how the student feel about the learning during doing the tasks or assignments or activitie	No Need
+9.3.1.2.1.10	*Demonstrate transfer of learning during doing the tasks or assignments or activitie	No Need
+9.3.1.2.2	For subsection week 1 the information related to happenings or events or observation sould cover these contents:
+- answer “What did you, see, read, hear etc? related to events or happening or obeservation
+- describe Objectivity andhypotheses of events or happening or obeservation
+- Describe the student's conclusions of events or happening or obeservation
+- Answer the question what might the events or happening or obeservation mean? 
+- Describe the student's judgments clearly connected to events or happening or obeservation
+- Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+- Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+-Analyze the student's own performance as a learner about events or happening or obeservation
+- Describe how the information related to events or happening or obeservation will be useful to students
+- What are the student's recommendations about events or happening or obeservation
+- Describe how the student's feel about her/his learning related to events or happening or obeservation
+-Demonstrate transfer of learning related to events or happening or obeservation	* answer “What did you, see, read, hear etc? related to events or happening or obeservation
+*describe Objectivity andhypotheses of events or happening or obeservation
+* Describe the student's conclusions of events or happening or obeservation
+*Answer the question what might the events or happening or obeservation mean? 
+*Describe the student's judgments clearly connected to events or happening or obeservation
+*Describe the student's opinion about what you observed or
+experienced about events or happening or obeservation
+*Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future
+*Analyze the student's own performance as a learner about events or happening or obeservation
+*describe how the information related to events or happening or obeservation will be useful to students
+*What are the student's recommendations about events or happening or obeservation
+*Describe how the student's feel about her/his learning related to events or happening or obeservation
+*Demonstrate transfer of learning related to events or happening or obeservation
+9.3.1.2.2.1	* answer “What did you, see, read, hear etc? related to events or happening or obeservation	No Need
+9.3.1.2.2.2	*describe Objectivity andhypotheses of events or happening or obeservation	No Need
+9.3.1.2.2.3	* Describe the student's conclusions of events or happening or obeservation	No Need
+9.3.1.2.2.4	*Answer the question what might the events or happening or obeservation mean?	No Need
+9.3.1.2.2.5	*Describe the student's judgments clearly connected to events or happening or obeservation	No Need
+9.3.1.2.2.6	*Describe the student's opinion about what you observed or	No Need
+9.3.1.2.2.7	experienced about events or happening or obeservation	No Need
+9.3.1.2.2.8	*Describe In what ways this learning experience related to events or happening or obeservation will serve the student in hisor her future	No Need
+9.3.1.2.2.9	*Analyze the student's own performance as a learner about events or happening or obeservation	No Need
+9.3.1.2.2.10	*describe how the information related to events or happening or obeservation will be useful to students	No Need
+9.3.1.2.2.11	*What are the student's recommendations about events or happening or obeservation	No Need
+9.3.1.2.2.12	*Describe how the student's feel about her/his learning related to events or happening or obeservation	No Need
+9.3.1.2.2.13	*Demonstrate transfer of learning related to events or happening or obeservation	No Need
+9.3.1.2.3	For subsection week 1 the information connection and Communication expreince with others and organizations  should cover these contents:
+- Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+- Describe the student's conclusions about connection and Communication expreince with others and organizations 
+- Describe the student's feelings about connection and Communication expreince with others and organizations
+-Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+- Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+-Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+-Describe the student's recommendations about the connection and Communication expreince with others and organizations
+-Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations	*Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations
+*Describe the student's conclusions about connection and Communication expreince with others and organizations 
+*Describe the student's feelings about connection and Communication expreince with others and organizations
+*Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future
+*Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations
+*Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students
+*Describe the student's recommendations about the connection and Communication expreince with others and organizations
+*Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations
+9.3.1.2.3.1	*Evaluate the effectiveness and efficiency of connection and Communication expreince with others and organizations	No Need
+9.3.1.2.3.2	*Describe the student's conclusions about connection and Communication expreince with others and organizations	No Need
+9.3.1.2.3.3	*Describe the student's feelings about connection and Communication expreince with others and organizations	No Need
+9.3.1.2.3.4	*Describe In what ways the learning experience related to connection and Communication expreince with others and organizations will serve the student in his/her future	No Need
+9.3.1.2.3.5	*Analyze the student's own performance as a learner relted to connection and Communication expreince with others and organizations	No Need
+9.3.1.2.3.6	*Plan how the information related to connection and Communication expreince with others and organizations will be useful to the students	No Need
+9.3.1.2.3.7	*Describe the student's recommendations about the connection and Communication expreince with others and organizations	No Need
+9.3.1.2.3.8	*Demonstrate transfer of learning relted to connection and Communication expreince with others and organizations	No Need
+REPEAT THE NODE LIKE THE RELATED TO WEEK 1 FOR WEEK 2 to WEEK 13	 
+10	The Document should have a Work Sample Section(essential)
+Work sample Section should cover 2 example of the student's work (such as news stories, articles, interviews, projects etc.)
+work Example 1 And work Example 2 sould cover these content:
+short description of your role in that work sample
+how you used the sample.
+	*The Document should have a Work Sample Section
+*Work sample Section should cover 2 example of the student's work (such as news stories, articles, interviews, projects etc.)
+*work Example 1 And work Example 2 sould cover these content:
+short description of your role in that work sample
+how you used the sample.
+10.1	The Document should have a Work Sample Section (essential)	No Need
+10.2	Work sample Section should cover 2 example of the student's work (such as news stories, articles, interviews, projects etc.)	No Need
+10.3	work Example 1 And work Example 2  (such as news stories, articles, interviews, projects etc.) sould cover these content:
+short description of your role in that work sample
+how you used the sample.	*work Example 1  (such as news stories, articles, interviews, projects etc.) sould cover these content:
+-short description of your role in that work sample
+-how you used the sample.
+*work Example 2  (such as news stories, articles, interviews, projects etc.) sould cover these content:
+-short description of your role in that work sample
+-how you used the sample.
+10.3.1	work Example 1  (such as news stories, articles, interviews, projects etc.) sould cover these content:
+-short description of your role in that work sample
+-how you used the sample.	*work Example 1  (such as news stories, articles, interviews, projects etc.) sould have:
+-short description of your role in that work sample
+*work Example 1  (such as news stories, articles, interviews, projects etc.) sould have:
+-how you used the sample.
+10.3.1.1	work Example 1  (such as news stories, articles, interviews, projects etc.) sould have:
+-short description of your role in that work sample	No Need
+10.3.1.2	work Example 1  (such as news stories, articles, interviews, projects etc.) sould have:
+-how you used the sample.	No Need
+10.3.2	work Example 2  (such as news stories, articles, interviews, projects etc.) sould cover these content:
+-short description of your role in that work sample
+-how you used the sample.	*work Example 2  (such as news stories, articles, interviews, projects etc.) sould have:
+-short description of your role in that work sample
+*work Example 2  (such as news stories, articles, interviews, projects etc.) sould have:
+-how you used the sample.
+10.3.2.1	work Example 2  (such as news stories, articles, interviews, projects etc.) sould have:
+-short description of your role in that work sample	No Need
+10.3.2.2	work Example 2 (such as news stories, articles, interviews, projects etc.) sould have:
+-how you used the sample.	No Need
+11	The document should have critical analysis section (essential)
+the critical analysis section should cover these consept
+- heoretical concepts with your practical experience during your internship in the organization
+- Execute an overall analysis of the organization.	*The document should have critical analysis section
+*The critical analysis section should cover these consept
+- heoretical concepts with your practical experience during your internship in the organization
+- Execute an overall analysis of the organization.
+11.1	The document should have critical analysis section(essential)	No Need
+11.2	The critical analysis section should cover these consept
+- Theoretical concepts with your practical experience during your internship in the organization
+- Execute an overall analysis of the organization.	*The critical analysis section should cover these consept
+- Theoretical concepts with your practical experience during your internship in the organization
+*The critical analysis section should cover these consept
+- Execute an overall analysis of the organization.
+11.2.1	*The critical analysis section should cover these consept
+- Theoretical concepts with your practical experience during your internship in the organization
+	No Need
+11.2.2	*The critical analysis section should cover these consept
+- Execute an overall analysis of the organization.	No Need
+12	The document should have SWOT Analysis Section(essential)
+The SWOT Analysis Section should cover these content:
+- strenghts of the organization : are those qualities which distinguish or give an edge to the organization over other organizations 
+- weakness of the Organization : are the attributes of an organization that are harmful in achieving the objectives of an
+organization.
+-Opportunities of the organization: are the external factors that are helpful in achieving the objectives of the organization.
+-Threats of the organization: are the external factors which could damage the business performance of the organization	*The document should have SWOT Analysis Section
+*The SWOT Analysis Section should cover these content:
+- strenghts of the organization : are those qualities which distinguish or give an edge to the organization over other organizations 
+- weakness of the Organization : are the attributes of an organization that are harmful in achieving the objectives of an
+organization.
+-Opportunities of the organization: are the external factors that are helpful in achieving the objectives of the organization.
+-Threats of the organization: are the external factors which could damage the business performance of the organization
+12.1	The document should have SWOT Analysis Section(essential)	No Need
+12.2	The SWOT Analysis Section should cover these content:
+- strenghts of the organization : are those qualities which distinguish or give an edge to the organization over other organizations 
+- weakness of the Organization : are the attributes of an organization that are harmful in achieving the objectives of an
+organization.
+-Opportunities of the organization: are the external factors that are helpful in achieving the objectives of the organization.
+-Threats of the organization: are the external factors which could damage the business performance of the organization	*The SWOT Analysis Section should cover:
+- strenghts of the organization : are those qualities which distinguish or give an edge to the organization over other organizations 
+*The SWOT Analysis Section should cover:
+- weakness of the Organization : are the attributes of an organization that are harmful in achieving the objectives of an
+organization.
+*The SWOT Analysis Section should cover:
+-Opportunities of the organization: are the external factors that are helpful in achieving the objectives of the organization.
+*The SWOT Analysis Section should cover:
+-Threats of the organization: are the external factors which could damage the business performance of the organization
+12.2.1	The SWOT Analysis Section should cover:
+- strenghts of the organization : are those qualities which distinguish or give an edge to the organization over other organizations	No Need
+12.2.2	The SWOT Analysis Section should cover:
+- weakness of the Organization : are the attributes of an organization that are harmful in achieving the objectives of an
+organization.	No Need
+12.2.3	The SWOT Analysis Section should cover:
+-Opportunities of the organization: are the external factors that are helpful in achieving the objectives of the organization.	No Need
+12.2.4	The SWOT Analysis Section should cover:
+-Threats of the organization: are the external factors which could damage the business performance of the organization	No Need
+13	The document should have colclution section (essential)
+The coclution section content describe the organization based on the critical and SWOT analyses.
+It is required there is harmony between   the content of conclusion section and critical and SWOT analyses.
+	*The document should have colclution section
+*The coclution section content describe the organization based on the critical and SWOT analyses.
+*It is required there is harmony between   the content of conclusion section and critical and SWOT analyses.
+13.1	The document should have colclution section (essential)
+	No Need
+13.2	The coclution section content describe the organization based on the critical and SWOT analyses.	No Need
+13.3	It is required there is harmony between   the content of conclusion section and critical and SWOT analyses.	No Need
+14	The document should have the recommendation section(essential)
+The recommendation section content describe suggested solution for all problem mentioned in critical and SWOT analyses.
+	*The document should have the recommendation section
+*The recommendation section content describe suggested solution for all problem mentioned in critical and SWOT analyses.
+14.1	The document should have the recommendation section(essential)	No Need
+14.2	The recommendation section content describe suggested solution for all problem mentioned in critical and SWOT analyses.	No Need
+15	The document should have Rerences Section (essential)	 

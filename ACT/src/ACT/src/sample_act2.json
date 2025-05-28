@@ -1,0 +1,978 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "1.1",
+                    "name": "ACKNOWLEDGEMENT",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "ACKNOWLEDGEMENT"
+                },
+                {
+                    "goal": null,
+                    "id": "1.2",
+                    "name": "I wou",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "I would like to start with acknowledge that support and strength given by Almighty and the \nopportunities granted by GOD along with health and peace.  \nAs being the final semester student of Masters of Data Science from Macquarie University, \nthe support I have been given from the university in all regards no matter what kind of \nsupport required, I\u2019ve always been welcomed especially in pandemic over these toughest \nyears is been tremendous. I considered myself lucky to belong this department where I get a \nchance to be under guidance of Dr. Amin Beheshti, who is always available to support \nstudents like me and enlighten me about this opportunity.  \nFurthermore, I would like to give my upmost regards to the Intuitive technology innovations \nwho selected me to be the part of this learning journey and enhance my skills, either it\u2019s \nrelated to learning, presenting or soft skills, Mr. Praneeth Samuel was being in contact from \nthe start and guide me through to understand all the process and help me to make my \ndecision, Ms. Jennifier Yang who is supervising this session program and I would like to give  \nmy sincere regards how manageably she\u2019s handling by so far and giving us learning more \nout of it under her supervision and always supportive to answer all the queries without any \nhesitation and she make sure we all are having good time during this program and every \nsession serving its purpose along with she make sure of that we get all the required \nresources in no time so we can start our work without delaying.  \nNonetheless, my mentor Mr. Ivan Bakhshayeshi, who has been an amazing mentor in all \nregards, he provides us the environment to learn and practice without any judgments and \nthis program wouldn\u2019t be easier without his efforts and support."
+                }
+            ],
+            "goal": null,
+            "id": 1,
+            "name": "ACKNOWLEDGEMENT",
+            "nodeType": "Section",
+            "page": 2,
+            "text": "ACKNOWLEDGEMENT \n \nI would like to start with acknowledge that support and strength given by Almighty and the \nopportunities granted by GOD along with health and peace.  \nAs being the final semester student of Masters of Data Science from Macquarie University, \nthe support I have been given from the university in all regards no matter what kind of \nsupport required, I\u2019ve always been welcomed especially in pandemic over these toughest \nyears is been tremendous. I considered myself lucky to belong this department where I get a \nchance to be under guidance of Dr. Amin Beheshti, who is always available to support \nstudents like me and enlighten me about this opportunity.  \nFurthermore, I would like to give my upmost regards to the Intuitive technology innovations \nwho selected me to be the part of this learning journey and enhance my skills, either it\u2019s \nrelated to learning, presenting or soft skills, Mr. Praneeth Samuel was being in contact from \nthe start and guide me through to understand all the process and help me to make my \ndecision, Ms. Jennifier Yang who is supervising this session program and I would like to give  \nmy sincere regards how manageably she\u2019s handling by so far and giving us learning more \nout of it under her supervision and always supportive to answer all the queries without any \nhesitation and she make sure we all are having good time during this program and every \nsession serving its purpose along with she make sure of that we get all the required \nresources in no time so we can start our work without delaying.  \nNonetheless, my mentor Mr. Ivan Bakhshayeshi, who has been an amazing mentor in all \nregards, he provides us the environment to learn and practice without any judgments and \nthis program wouldn\u2019t be easier without his efforts and support."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "2.1",
+                    "name": "EXECUTIVE SUMMARY",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "EXECUTIVE SUMMARY"
+                },
+                {
+                    "goal": null,
+                    "id": "2.2",
+                    "name": "The m",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The motive of this report is to shed the light over what I have done over last six weeks of my \ninternship program at Intuitive Technology Innovation Pty Ltd. Which is based in Sydney, \nAustralia.  \nThis report has information about the Intuitive technology innovations Pty Ltd. history, \nintroduction, policies and their competitors and all the details about the internship \nprogram, the work I have performed, program timeline, duties, assigned tasks and learned \ntools.  \nAdditionally, it also holds the information of reflective journal for last six weeks of this \ninternship program which includes student\u2019s experience over all these past weeks in \ndetailed. Furthermore, this report also includes some informant analysis that are Critical \nanalysis and SWOT analysis. Basically, the critical analysis has the power to judge the \ncomparison between theoretical knowledge as compare to internship work while SWOT \nanalysis helps to describes strengths, weaknesses, opportunities and threats of the \norganisation. The last part of this report has conclusion which states the sum of this report, \nrecommendation part holds the suggestions over the highlighted problems mentioned in \nthe SWOT analysis and then we have reference\u2019s part where you can find all the resources \nwhich helps me through collect the data for this report."
+                },
+                {
+                    "goal": null,
+                    "id": "2.3",
+                    "name": "4 \nTa",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "4 \nTable of Contents \nACKNOWLEDGEMENT ................................................................................................................................ \n2 \nEXECUTIVE SUMMARY ..............................................................................................................................."
+                }
+            ],
+            "goal": null,
+            "id": 2,
+            "name": "EXECUTIVE SUMMARY",
+            "nodeType": "Section",
+            "page": 3,
+            "text": "EXECUTIVE SUMMARY \n \n \nThe motive of this report is to shed the light over what I have done over last six weeks of my \ninternship program at Intuitive Technology Innovation Pty Ltd. Which is based in Sydney, \nAustralia.  \nThis report has information about the Intuitive technology innovations Pty Ltd. history, \nintroduction, policies and their competitors and all the details about the internship \nprogram, the work I have performed, program timeline, duties, assigned tasks and learned \ntools.  \nAdditionally, it also holds the information of reflective journal for last six weeks of this \ninternship program which includes student\u2019s experience over all these past weeks in \ndetailed. Furthermore, this report also includes some informant analysis that are Critical \nanalysis and SWOT analysis. Basically, the critical analysis has the power to judge the \ncomparison between theoretical knowledge as compare to internship work while SWOT \nanalysis helps to describes strengths, weaknesses, opportunities and threats of the \norganisation. The last part of this report has conclusion which states the sum of this report, \nrecommendation part holds the suggestions over the highlighted problems mentioned in \nthe SWOT analysis and then we have reference\u2019s part where you can find all the resources \nwhich helps me through collect the data for this report.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n4 \nTable of Contents \nACKNOWLEDGEMENT ................................................................................................................................ \n2 \nEXECUTIVE SUMMARY ..............................................................................................................................."
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "3.1.1",
+                            "name": "BRIEF HISTORY:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "BRIEF HISTORY:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.1.2",
+                            "name": "The I",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "The Intuitive Technology Innovation Pty Ltd found in 2001, It\u2019s a group of companies, where \nITIC system, research and education support is based in Sydney, NSW. This organisation \nprovides the educational training, support, implementation of projects in all over Australia \nand New Zealand."
+                        }
+                    ],
+                    "goal": null,
+                    "id": "3.1",
+                    "name": "BRIEF HISTORY:",
+                    "nodeType": "Section",
+                    "page": 5,
+                    "text": "BRIEF HISTORY: \n \nThe Intuitive Technology Innovation Pty Ltd found in 2001, It\u2019s a group of companies, where \nITIC system, research and education support is based in Sydney, NSW. This organisation \nprovides the educational training, support, implementation of projects in all over Australia \nand New Zealand."
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "goal": null,
+                                    "id": "3.2.1.1",
+                                    "name": "ITIC EDUCATION AND RESEARCH:",
+                                    "nodeType": "Title",
+                                    "page": null,
+                                    "text": "ITIC EDUCATION AND RESEARCH:"
+                                },
+                                {
+                                    "goal": null,
+                                    "id": "3.2.1.2",
+                                    "name": "Apart",
+                                    "nodeType": "Paragraph",
+                                    "page": null,
+                                    "text": "Apart from all these efforts and work, they have also played a big role in education sector \nand supporting new students to choose their career path and providing programs to help \nthem grow and flourish in real industry. The ITIC created key organizations with both NSW \ncolleges and industry, to convey learning results for colleges and their understudies, give \nnew open doors to industry experts and fabricate an ability pool zeroed in on regions where \ngovernment and industry have recognized a current or future abilities lack. The ITIC support \nboth local and international students to fill the gap between their studies to the industry, it"
+                                },
+                                {
+                                    "goal": null,
+                                    "id": "3.2.1.3",
+                                    "name": "6 \nal",
+                                    "nodeType": "Paragraph",
+                                    "page": null,
+                                    "text": "6 \nalso gives support to universities and their attendees to get the idea of full time work in \ntheir related field which helps them to polish their skills and apply their theoretical studies \ninto real life projects and in this regards they offer internship opportunities for the final \nsemester students of related fields like; Data Science, Cyber security, software \ndevelopment, Artificial Intelligence, Machine learning and network security."
+                                }
+                            ],
+                            "goal": null,
+                            "id": "3.2.1",
+                            "name": "ITIC EDUCATION AND RESEARCH:",
+                            "nodeType": "Section",
+                            "page": 5,
+                            "text": "ITIC EDUCATION AND RESEARCH:  \n \nApart from all these efforts and work, they have also played a big role in education sector \nand supporting new students to choose their career path and providing programs to help \nthem grow and flourish in real industry. The ITIC created key organizations with both NSW \ncolleges and industry, to convey learning results for colleges and their understudies, give \nnew open doors to industry experts and fabricate an ability pool zeroed in on regions where \ngovernment and industry have recognized a current or future abilities lack. The ITIC support \nboth local and international students to fill the gap between their studies to the industry, it \n \n6 \nalso gives support to universities and their attendees to get the idea of full time work in \ntheir related field which helps them to polish their skills and apply their theoretical studies \ninto real life projects and in this regards they offer internship opportunities for the final \nsemester students of related fields like; Data Science, Cyber security, software \ndevelopment, Artificial Intelligence, Machine learning and network security."
+                        },
+                        {
+                            "children": [
+                                {
+                                    "goal": null,
+                                    "id": "3.2.2.1",
+                                    "name": "ITIC PARTNERS:",
+                                    "nodeType": "Title",
+                                    "page": null,
+                                    "text": "ITIC PARTNERS:"
+                                }
+                            ],
+                            "goal": null,
+                            "id": "3.2.2",
+                            "name": "ITIC PARTNERS:",
+                            "nodeType": "Section",
+                            "page": 6,
+                            "text": "ITIC PARTNERS:"
+                        }
+                    ],
+                    "goal": null,
+                    "id": "3.2",
+                    "name": "INTRODUCTION OF THE ORGANIZATION:",
+                    "nodeType": "Section",
+                    "page": 5,
+                    "text": "INTRODUCTION OF THE ORGANIZATION: \n \nThis organization works with providing support like IT helpdesk for various types of \nsoftware, solutions and technologies. They build a system to support your infrastructure, \nservers and for complete support for your technology department, IT Help Desk and can \nwork with you to coordinate inside your hierarchical frameworks and interaction. They also \noffer consulting services \n \nThe ITIC also holds the specialised skills for disaster recovery, ITIC SYSTEMS are experts in \ndisaster recuperation cycles, strategies and techniques connected with planning for \nrecuperation or continuation of innovation foundation basic to an association after a \ncharacteristic or human-instigated catastrophe.  \n \nThe ITIC is also provides solutions for unified communications and unified computing as \nwell. The IP Telephony arrangements that give the establishment to addressing the present \nrequirement for Unified Communications (UC) in the venture. The essential reason of UC is \nto cultivate moment correspondence between laborers past the customary telephone and \nemail and into voice, video, IM, and remote. On the other hand, The Unified Computing \nSystem is intended to work on conventional designs and drastically lessen the quantity of \ngadgets that should be bought, cabled, arranged, controlled, cooled, and got in the server \nfarm.  \n \nThe also work with, The System Administration Management Tool (SAMT-T) has been \ncreated to furnish framework chairmen with a one stop design entryway for Cisco Unified \nCommunications and Contact Centre frameworks including CUCM, UCXN, UCCX. Using the \nCisco gave API, SAM-T permits the framework manager to oversee troublesome or dreary \nassignments, mechanize process and make a custom dashboard that shows data about their \nUC frameworks."
+                },
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "3.3.1",
+                            "name": "ORGANIZATION POLICIES:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "ORGANIZATION POLICIES:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.3.2",
+                            "name": "The I",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "The ITIC is a company which provides technology solutions, their policies for workplace \nbehaviour or and online behaviour is in place to delivered better product and services \nthroughout all departments."
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.3.3",
+                            "name": "Information Technology:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Information Technology:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.3.4",
+                            "name": "The u",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "The use of technology facilities should be access for business communication. However, \nlimited personal use does no harm as it\u2019s not being use to breach any policy, affect your \nwork performance, overshadowing the rights of fellow employees, taking too much of the \nsignificant resources and violating the rights of the healthy, private and safe work \nenvironment."
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.3.5",
+                            "name": "Workplace Behaviour:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Workplace Behaviour:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.3.6",
+                            "name": "To ma",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "To make the workplace safe and productive they have number of policies to the standard of \nany organization in Australia, discrimination policy, sexual harassment policy, bullying \npolicy, victimisation policy, bystanders and have applicable federal, state and territory \nlegislation."
+                        }
+                    ],
+                    "goal": null,
+                    "id": "3.3",
+                    "name": "ORGANIZATION POLICIES:",
+                    "nodeType": "Section",
+                    "page": 6,
+                    "text": "ORGANIZATION POLICIES: \n \nThe ITIC is a company which provides technology solutions, their policies for workplace \nbehaviour or and online behaviour is in place to delivered better product and services \nthroughout all departments.  \n \nInformation Technology:  \n \nThe use of technology facilities should be access for business communication. However, \nlimited personal use does no harm as it\u2019s not being use to breach any policy, affect your \nwork performance, overshadowing the rights of fellow employees, taking too much of the \nsignificant resources and violating the rights of the healthy, private and safe work \nenvironment.  \n \nWorkplace Behaviour:  \n \nTo make the workplace safe and productive they have number of policies to the standard of \nany organization in Australia, discrimination policy, sexual harassment policy, bullying \npolicy, victimisation policy, bystanders and have applicable federal, state and territory \nlegislation."
+                },
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "3.4.1",
+                            "name": "COMPETITORS:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "COMPETITORS:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "3.4.2",
+                            "name": "Accor",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "According to our mentor they have many competitors that are capital training institute, \nriverside university, phoenix TS, neighbourhood services, Steepletown and etc."
+                        }
+                    ],
+                    "goal": null,
+                    "id": "3.4",
+                    "name": "COMPETITORS:",
+                    "nodeType": "Section",
+                    "page": 6,
+                    "text": "COMPETITORS: \n \nAccording to our mentor they have many competitors that are capital training institute, \nriverside university, phoenix TS, neighbourhood services, Steepletown and etc."
+                }
+            ],
+            "goal": null,
+            "id": 3,
+            "name": "OVERVIEW OF THE ORGANIZATION",
+            "nodeType": "Section",
+            "page": 5,
+            "text": "OVERVIEW OF THE ORGANIZATION"
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "4.1",
+                    "name": "ORGANIZATIONAL STRUCTURE",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "ORGANIZATIONAL STRUCTURE"
+                },
+                {
+                    "goal": null,
+                    "id": "4.2",
+                    "name": "The I",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The ITIC office located in the main CBD Sydney at Level 3, 321 Pitt St \nSydney, NSW 2000, which is the business hub of the Sydney and it\u2019s a prime location to \nlearn how things works in the big city\u2019s CBD so the international students get the idea and \nget opportunity to build better connection. They are based on this address since couple of \nyears which itself is an achievement. The overall environment, location and office decorum \nis remarkable.  \nITIC has a team size of 11-50 employees, but they are expanding on fast pace.  \nThe CEO Mr. Stephen Elbourn is the chief technology officer and below him mentioned all \nthe heads of the department, Mr. Chris Dawson is the cloud lead, Mr. Anant takes care of \nthe delivery of the services provided to the customer and report directly to the CEO. The \nsale department head is Mr. Gavin Shipman how has a team of three employees under his \nsupervision which includes Mr. Praneeth Samuel who takes part is ITIC education sector as \nwell, Mr. Scott Punshon is the software lead and hold pretty good experience in this regard, \non the other hand the Finance department is under supervision of Mr. Demeterious who \ntake care of the finance department of ITIC and reports directly to the Mr. Stephen.  \nThe marketing head is Ms. Jennifer who take care of all the marketing stargates of ITIC and \nalong with these responsibilities she is also the coordinator of taking care all the Internee \ncorrespondence and solving queries regarding any help required with in the organization.   \nThe strategy department is responsible of strategies to be impose to get better outcome in \nand outside of the organization is under Mr. Tim who is hard-working personnel to make \nthis organization stand out.  \nThe ITI group has various different companies and they work in collaborative way, the about \nmention hierarchal graph shows that they have several departments. The ITI has ITIC, ViTIC, \nYarnlab, Yirigaa, etc under their roof and they all been managed by the above-mentioned \nrepresentatives."
+                },
+                {
+                    "goal": null,
+                    "id": "4.3",
+                    "name": "8 \nFu",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "8 \nFurthermore, The ITIC has recently shake hands and become partner with Yirigaa, \nindigenous technology company and also the part of Macquarie University centre. The \nchairmen of Mr. Warren Mundine are also become the chairmen. This company working on \nproviding the important skills to give engineers to have hand full work in some of the field \nwhich are, NOC and CSOC which is located in one of the reginal areas of NSW, Orange.  \nThe Telestra also came on board with this to provide support for the engineers of the Yirigaa \nto be trained on Telestra products and provide services across all over Australia."
+                },
+                {
+                    "goal": null,
+                    "id": "4.4",
+                    "name": "The s",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The structure of this organization is pretty organised and the reporting hierarchy seems \nquite professional and following all the guidelines of an idol organizational while the CEO \ntaking keen interest in all the group of organizations which is expanding with time and while \nwe talk about ITIC education it\u2019s expanding and introducing various options in multiple fields \nwhile collaboration with universities like UTS and Macquarie."
+                }
+            ],
+            "goal": null,
+            "id": 4,
+            "name": "ORGANIZATIONAL STRUCTURE",
+            "nodeType": "Section",
+            "page": 7,
+            "text": "ORGANIZATIONAL STRUCTURE \n \n \n \nThe ITIC office located in the main CBD Sydney at Level 3, 321 Pitt St \nSydney, NSW 2000, which is the business hub of the Sydney and it\u2019s a prime location to \nlearn how things works in the big city\u2019s CBD so the international students get the idea and \nget opportunity to build better connection. They are based on this address since couple of \nyears which itself is an achievement. The overall environment, location and office decorum \nis remarkable.  \nITIC has a team size of 11-50 employees, but they are expanding on fast pace.  \nThe CEO Mr. Stephen Elbourn is the chief technology officer and below him mentioned all \nthe heads of the department, Mr. Chris Dawson is the cloud lead, Mr. Anant takes care of \nthe delivery of the services provided to the customer and report directly to the CEO. The \nsale department head is Mr. Gavin Shipman how has a team of three employees under his \nsupervision which includes Mr. Praneeth Samuel who takes part is ITIC education sector as \nwell, Mr. Scott Punshon is the software lead and hold pretty good experience in this regard, \non the other hand the Finance department is under supervision of Mr. Demeterious who \ntake care of the finance department of ITIC and reports directly to the Mr. Stephen.  \nThe marketing head is Ms. Jennifer who take care of all the marketing stargates of ITIC and \nalong with these responsibilities she is also the coordinator of taking care all the Internee \ncorrespondence and solving queries regarding any help required with in the organization.   \nThe strategy department is responsible of strategies to be impose to get better outcome in \nand outside of the organization is under Mr. Tim who is hard-working personnel to make \nthis organization stand out.  \nThe ITI group has various different companies and they work in collaborative way, the about \nmention hierarchal graph shows that they have several departments. The ITI has ITIC, ViTIC, \nYarnlab, Yirigaa, etc under their roof and they all been managed by the above-mentioned \nrepresentatives.  \n \n \n \n8 \nFurthermore, The ITIC has recently shake hands and become partner with Yirigaa, \nindigenous technology company and also the part of Macquarie University centre. The \nchairmen of Mr. Warren Mundine are also become the chairmen. This company working on \nproviding the important skills to give engineers to have hand full work in some of the field \nwhich are, NOC and CSOC which is located in one of the reginal areas of NSW, Orange.  \nThe Telestra also came on board with this to provide support for the engineers of the Yirigaa \nto be trained on Telestra products and provide services across all over Australia.  \n \nThe structure of this organization is pretty organised and the reporting hierarchy seems \nquite professional and following all the guidelines of an idol organizational while the CEO \ntaking keen interest in all the group of organizations which is expanding with time and while \nwe talk about ITIC education it\u2019s expanding and introducing various options in multiple fields \nwhile collaboration with universities like UTS and Macquarie."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "5.1",
+                    "name": "PLAN OF INTERNSHIP PROGRAM",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "PLAN OF INTERNSHIP PROGRAM"
+                },
+                {
+                    "goal": null,
+                    "id": "5.2",
+                    "name": "Home Office:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Home Office:"
+                },
+                {
+                    "goal": null,
+                    "id": "5.3",
+                    "name": "The p",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The place of internship program is held on both physically and online but due to COVID-19 \nsituation, we have most of the session online. The home office which located in the CBD \nLevel 3, 321 Pitt St Sydney, NSW 2000 and we have our learning portal set-up with all the \nresources and updates like iLearn. The online session happens over Microsoft teamwork \nwhich is a collaborative environment to share our work with our peers."
+                },
+                {
+                    "goal": null,
+                    "id": "5.4",
+                    "name": "Dates of Internship Plan:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Dates of Internship Plan:"
+                },
+                {
+                    "goal": null,
+                    "id": "5.5",
+                    "name": "The p",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The plan of this internship is based on 13 weeks duration from (25th Feb to 3rd of June) \nwhich has been started on 25th of February which was an orientation session. This program \nis consisting of two parts, the first five weeks is based on learning and training program of \nDATA analyst took kit which is affiliated with UTS, the other half is based on work \nexperience and working of real professional project for next eight weeks starting from 4th of \nApril."
+                },
+                {
+                    "goal": null,
+                    "id": "5.6",
+                    "name": "Part-time or Full-Time:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Part-time or Full-Time:"
+                },
+                {
+                    "goal": null,
+                    "id": "5.7",
+                    "name": "The e",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The enrolled program is part-time internship as by university I have enrolled in COMP8551."
+                },
+                {
+                    "goal": null,
+                    "id": "5.8",
+                    "name": "Department:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Department:"
+                },
+                {
+                    "goal": null,
+                    "id": "5.9",
+                    "name": "This ",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "This program held under ITIC education learning and research department where we are \nunder Data Science research department where my mentor is Mr. Ivan Bakhshayeshi who is \na Data Scientist who we have our sessions every week regarding project updates and \nguidelines of training program as well. The project we are working on is \u2018Smart Students \nAttendance Systems\u2019 by image recognition which has modules of deep learning, machine \nlearning and hands on experience of python, R and Tablau based on data provided by our \nmentor."
+                }
+            ],
+            "goal": null,
+            "id": 5,
+            "name": "PLAN OF INTERNSHIP PROGRAM",
+            "nodeType": "Section",
+            "page": 9,
+            "text": "PLAN OF INTERNSHIP PROGRAM \n \nHome Office: \n \nThe place of internship program is held on both physically and online but due to COVID-19 \nsituation, we have most of the session online. The home office which located in the CBD \nLevel 3, 321 Pitt St Sydney, NSW 2000 and we have our learning portal set-up with all the \nresources and updates like iLearn. The online session happens over Microsoft teamwork \nwhich is a collaborative environment to share our work with our peers.  \n \nDates of Internship Plan: \n \nThe plan of this internship is based on 13 weeks duration from (25th Feb to 3rd of June) \nwhich has been started on 25th of February which was an orientation session. This program \nis consisting of two parts, the first five weeks is based on learning and training program of \nDATA analyst took kit which is affiliated with UTS, the other half is based on work \nexperience and working of real professional project for next eight weeks starting from 4th of \nApril.  \n \nPart-time or Full-Time: \n \nThe enrolled program is part-time internship as by university I have enrolled in COMP8551.  \n \nDepartment: \n \nThis program held under ITIC education learning and research department where we are \nunder Data Science research department where my mentor is Mr. Ivan Bakhshayeshi who is \na Data Scientist who we have our sessions every week regarding project updates and \nguidelines of training program as well. The project we are working on is \u2018Smart Students \nAttendance Systems\u2019 by image recognition which has modules of deep learning, machine \nlearning and hands on experience of python, R and Tablau based on data provided by our \nmentor."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "6.1",
+                    "name": "TRAIN",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "TRAINING PROGRAM \nThis course will make the ways for chances to learn new instruments and have \nmodern/proficient outline of use of Data Science, all things considered. It will engage you \nwith the abilities and useful information to venture into the universe of Data Science, \nMachine Learning and Artificial Intelligence. ITIC is a main defender in creating Data Science \nin Australia with driving associations with both industry and examination. As mentioned \nearlier this program has two modules one is training module other is work experience so in \nthe training program which held first five weeks of this program has learning of basic to \nadvance learning of all the important Data science tools, and programming languages which \nare useful in data science industry.  \nFurthermore, this training program is been designed to polish data analytics tools, \nvisualization of data, data pre-processing, data presentation and working with real-life \nproblem-solving techniques. The first five weeks or the first half of this program we have \ndiscovered and work with six different tools of data analytics which are as follow;  \nPython:  \nWe have learned basic to advance level of python libraries, how and what tools needed to \nwork with python language, I have discovered various data types of python language while \npracticing on jupyter notebook and some python functions like making linear modelling, \ndata pre-processing, pandas, NumPy and matplotlib for data visualization. We have been \nprovided few resources material as well to get better and full insight of python language. In \nthis module we have also discovered why python language is better option to work with \ndata analysis because of its vast libraries support and how we can choose better and \ncompatible libraries depending on our desired outcomes and project specifications.  \nSQL:  \nAs being an data science student, I have an idea of importance of sequential query \nlanguage, in this module I have come across how we can handle structural data bases and \nnon-structural data bases, how we can use cloud data bases and their specifications, \nfunctions and data types of SQL, by which technique we can write efficient queries, \nconnection of SQL data bases with python, how we can compare the scalability of non-\nstructural and structural data bases and quite vast hands on experience of MongoDB and \ntheir specification.  \nTableau: \nThis tool was pretty new to me, I haven\u2019t come across this tool before this program which \nwas quite an experience for me to learn this interesting tool was best part of this training \nprogram, In Tableau we have discovered its fundamental specification, how we can get \nbetter insight of our data set, how to do better visualization of our data by using tool. The \ntableau is an easy and powerful tool for data analytics and the interaction live data graphs \nwhich is better to understand and best to deliver our outcomes. In this program we can \nhands on experience of tableau, exploration of its basic features as well as advance"
+                },
+                {
+                    "goal": null,
+                    "id": "6.2",
+                    "name": "11 \ns",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "11 \nspecification. Along with tabeau we have learned the importance of right data visualisation \nand how it can affect the whole data analysis and what makes if better than simple \nmatplotlib.  \nDeep Learning:  \nIn this deep learning module, As being an integral part of the data science, we have quite \nfew sessions of deep learning; where we have come across of importance and concept \nbehind deep learning along with hands on experience of how to integrate those concepts in \nour project. The deep learning libraries which we going to use in our project and have live \nexperience in our department projects are TensorFlow, Keras, chainer, ONNX and pytorch, \nwe have practice keras and TensorFlow and explored its specification and features. In deep \nlearning environment this program has also covered one of the libraries named as FastAI \nwhich has specification of AI related problems plus how to visualisation. The deep learning \nenvironment is quite vast and while working with how we can manage our complier we \nhave also discovered that along with natural language tool kit, we have solved few queries \nrelated to our project using natural language tool kit. The concept of computational layering \nhow we can manage them while working on our project, the importance of epochs, how \ndoes they work, what is transfer learning and what roles it plays in data science society and \nhow it is important in the project we are working with. We have also introduced the \nconcept of maxpooling, google collab, Kaggle and fine-tuning. In this module they have \ncovered almost all the important aspect of deep learning and their tools and we have \nexperience how and what library can be used while working on the project I have assigned.  \nMachine Learning:  \nIn this learning module, the machine language fundamental concept has been reviewed, \nwhich includes all the basic to advance level concept of machine learning which has been \nused and can help in our project. The concept of pre-processing data has been explored in \ndetailed and how we can do that with the help of machine learning concept, this module \ngave overview of k-nearest neighbour concept while solving real life professional problem \nhow decision tree works and what to expect from decision tree concept, how we can test \nand train our data to get required results while working efficiently, the concept of active \nlearning was being introduced too in this module while using the problem related to our \nproject concept where it\u2019s going to be an important concept to practice along with how we \ncan visualise the results of machine learning concepts. It also gives the idea of what is \nconfusion metrics and what information it gives and how we can analyse our output by \nusing that information and last, we have learned the detailed concept of random state while \nusing the data set of our project which is related to image recognition.  \nPower BI: \nThe power BI module has the learning about how we can make efficient reports of the \noutcome of our project and make interactive to get better insights of our analysis, the \npower BI is and advance tool to transforming the data, slicing the data and reporting the \ndata. We have come across the basic features of this tool like importing data, fixing the"
+                },
+                {
+                    "goal": null,
+                    "id": "6.3",
+                    "name": "12 \nc",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "12 \ncolumn names etc. it was very interesting to get to learn this tool in real professional \nenvironment while having hands on experience with the data set of the real project.  \nIn this training program I have come across the demonstration of all the important tools \nrelated to data science technologies and get insights of how we can use, enhance, alter, and \nhow to use those tools in my project. This learning module helps me to understand the tools \nof deep learning and practice of how I can collaborate it with image recognition system how \nwe can play with the specification of our GPU and TPU to make our machine more advance, \nthe second half of this training program is based on work experience and project deliverable \nwhich is based on deep learning and machine learning concepts, natural language tool kits \nto run analysis on image of attendance system.  \n Overview of the Project:  \nThe project that I have choose is student attendance system, as we have seen since couple \nof years as everything is being online or virtual either its workshops, lectures, tutorial, \nexams or work, the attendance system seems pretty important at this point, the face \nrecognition is easy in real life but when it comes to the system it holds pretty complex \nconcept to be integrated. The image recognition is based on reading and interpreting \nthousands of pixels, layers, and differentiate the categories between the objects where we \nhave to label the data first and pre-process it before running analysis on it. this project will \nwork on academic level where we have to create a face recognition system for online \nattendance of the students, this project is the subdivision of the visual pattern recognition. \nThe face recognition should find the difference between who\u2019s face belongs in the part of \nthe data. This is the problem of power artificial intelligence and have the specifications of \nthe rough classification problem. Kjhjkhkj kjljklj  h7hh9h90h0h3dssd f3f5f9gk7b-5be4c23c/ \nThe motive of this project is to facilitate the online teaching with artificial technology and \nmake our online system more accurate and secure, it will support the teaching teams in \nonline classes and as well as work attendance but we will stick to the motive of students\u2019 \ndata only. By working on this project, we can enhance the class management and teachers \ncan be sure that the student who is present in the class does belongs to the class and limit \nthe defaulter to do the forgery in exams and attending classes. \nggYHY54c3c1f9hcg5579%$V#C9VI \nThe purpose of this project is using AI in educational departments and track the student \nattendances. By using this project, we can identify the faces of the students with the \nenrolled list so be make sure.  \nThe libraries and concept this project are based on is deep neural network and machine \nlearning concepts which we have learned in our training programs and we have practice all \nof them on related project and how we can get the idea of all these libraries in professional \nworld projects while using Python and where we have several libraries available like deep \nface and emotion recognition. Vt7v9bb8v4vw2c79vpjb6reb76fcgstHJKHK73CV43XF \nThe workflow of this project is goes like this; \nWe will provide the input images \u2192 detect \u2192 transform \u2192 crop \u2192 deep neural network"
+                },
+                {
+                    "goal": null,
+                    "id": "6.4",
+                    "name": "13 \nF",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "13 \nFrom this point it will goes into representation point where we have three options to work \non clustering \u2192 similarity detection and classification. It depends on to what extends we \nwill go depends on the mentor. We can run more analysis by using these libraries and make \nit vaster by running emotion recognition, object detection, classification based on what \nclasses and also it should be representational and create and API for representation of this \nproject where we can see the full potential of this application.  \nOutcome of the project:  \nPoint of the undertaking is to effectively perceive understudy in a web-based test and can \nfollow understudy's class participation. These days due to Coronavirus pandemic connection \namong understudy and educator is nearly non-existent and extremely less intelligent. So, \nwhen understudy wanted to skirt the class and attempt to hoodwink the instructor to get a \nfree participation for the class, this framework wouldn't allow them to get it done. It will \nperceive understudy face with it put away data set coordinate with understudy separate id \nand fill the participation and store it in a succeed sheet with having every one of the \nindividual subtleties of the understudy."
+                }
+            ],
+            "goal": null,
+            "id": 6,
+            "name": "TRAINING PROGRAM",
+            "nodeType": "Section",
+            "page": 10,
+            "text": "TRAINING PROGRAM \nThis course will make the ways for chances to learn new instruments and have \nmodern/proficient outline of use of Data Science, all things considered. It will engage you \nwith the abilities and useful information to venture into the universe of Data Science, \nMachine Learning and Artificial Intelligence. ITIC is a main defender in creating Data Science \nin Australia with driving associations with both industry and examination. As mentioned \nearlier this program has two modules one is training module other is work experience so in \nthe training program which held first five weeks of this program has learning of basic to \nadvance learning of all the important Data science tools, and programming languages which \nare useful in data science industry.  \nFurthermore, this training program is been designed to polish data analytics tools, \nvisualization of data, data pre-processing, data presentation and working with real-life \nproblem-solving techniques. The first five weeks or the first half of this program we have \ndiscovered and work with six different tools of data analytics which are as follow;  \nPython:  \nWe have learned basic to advance level of python libraries, how and what tools needed to \nwork with python language, I have discovered various data types of python language while \npracticing on jupyter notebook and some python functions like making linear modelling, \ndata pre-processing, pandas, NumPy and matplotlib for data visualization. We have been \nprovided few resources material as well to get better and full insight of python language. In \nthis module we have also discovered why python language is better option to work with \ndata analysis because of its vast libraries support and how we can choose better and \ncompatible libraries depending on our desired outcomes and project specifications.  \nSQL:  \nAs being an data science student, I have an idea of importance of sequential query \nlanguage, in this module I have come across how we can handle structural data bases and \nnon-structural data bases, how we can use cloud data bases and their specifications, \nfunctions and data types of SQL, by which technique we can write efficient queries, \nconnection of SQL data bases with python, how we can compare the scalability of non-\nstructural and structural data bases and quite vast hands on experience of MongoDB and \ntheir specification.  \nTableau: \nThis tool was pretty new to me, I haven\u2019t come across this tool before this program which \nwas quite an experience for me to learn this interesting tool was best part of this training \nprogram, In Tableau we have discovered its fundamental specification, how we can get \nbetter insight of our data set, how to do better visualization of our data by using tool. The \ntableau is an easy and powerful tool for data analytics and the interaction live data graphs \nwhich is better to understand and best to deliver our outcomes. In this program we can \nhands on experience of tableau, exploration of its basic features as well as advance \n \n11 \nspecification. Along with tabeau we have learned the importance of right data visualisation \nand how it can affect the whole data analysis and what makes if better than simple \nmatplotlib.  \nDeep Learning:  \nIn this deep learning module, As being an integral part of the data science, we have quite \nfew sessions of deep learning; where we have come across of importance and concept \nbehind deep learning along with hands on experience of how to integrate those concepts in \nour project. The deep learning libraries which we going to use in our project and have live \nexperience in our department projects are TensorFlow, Keras, chainer, ONNX and pytorch, \nwe have practice keras and TensorFlow and explored its specification and features. In deep \nlearning environment this program has also covered one of the libraries named as FastAI \nwhich has specification of AI related problems plus how to visualisation. The deep learning \nenvironment is quite vast and while working with how we can manage our complier we \nhave also discovered that along with natural language tool kit, we have solved few queries \nrelated to our project using natural language tool kit. The concept of computational layering \nhow we can manage them while working on our project, the importance of epochs, how \ndoes they work, what is transfer learning and what roles it plays in data science society and \nhow it is important in the project we are working with. We have also introduced the \nconcept of maxpooling, google collab, Kaggle and fine-tuning. In this module they have \ncovered almost all the important aspect of deep learning and their tools and we have \nexperience how and what library can be used while working on the project I have assigned.  \nMachine Learning:  \nIn this learning module, the machine language fundamental concept has been reviewed, \nwhich includes all the basic to advance level concept of machine learning which has been \nused and can help in our project. The concept of pre-processing data has been explored in \ndetailed and how we can do that with the help of machine learning concept, this module \ngave overview of k-nearest neighbour concept while solving real life professional problem \nhow decision tree works and what to expect from decision tree concept, how we can test \nand train our data to get required results while working efficiently, the concept of active \nlearning was being introduced too in this module while using the problem related to our \nproject concept where it\u2019s going to be an important concept to practice along with how we \ncan visualise the results of machine learning concepts. It also gives the idea of what is \nconfusion metrics and what information it gives and how we can analyse our output by \nusing that information and last, we have learned the detailed concept of random state while \nusing the data set of our project which is related to image recognition.  \nPower BI: \nThe power BI module has the learning about how we can make efficient reports of the \noutcome of our project and make interactive to get better insights of our analysis, the \npower BI is and advance tool to transforming the data, slicing the data and reporting the \ndata. We have come across the basic features of this tool like importing data, fixing the \n \n12 \ncolumn names etc. it was very interesting to get to learn this tool in real professional \nenvironment while having hands on experience with the data set of the real project.  \nIn this training program I have come across the demonstration of all the important tools \nrelated to data science technologies and get insights of how we can use, enhance, alter, and \nhow to use those tools in my project. This learning module helps me to understand the tools \nof deep learning and practice of how I can collaborate it with image recognition system how \nwe can play with the specification of our GPU and TPU to make our machine more advance, \nthe second half of this training program is based on work experience and project deliverable \nwhich is based on deep learning and machine learning concepts, natural language tool kits \nto run analysis on image of attendance system.  \n Overview of the Project:  \nThe project that I have choose is student attendance system, as we have seen since couple \nof years as everything is being online or virtual either its workshops, lectures, tutorial, \nexams or work, the attendance system seems pretty important at this point, the face \nrecognition is easy in real life but when it comes to the system it holds pretty complex \nconcept to be integrated. The image recognition is based on reading and interpreting \nthousands of pixels, layers, and differentiate the categories between the objects where we \nhave to label the data first and pre-process it before running analysis on it. this project will \nwork on academic level where we have to create a face recognition system for online \nattendance of the students, this project is the subdivision of the visual pattern recognition. \nThe face recognition should find the difference between who\u2019s face belongs in the part of \nthe data. This is the problem of power artificial intelligence and have the specifications of \nthe rough classification problem. Kjhjkhkj kjljklj  h7hh9h90h0h3dssd f3f5f9gk7b-5be4c23c/ \nThe motive of this project is to facilitate the online teaching with artificial technology and \nmake our online system more accurate and secure, it will support the teaching teams in \nonline classes and as well as work attendance but we will stick to the motive of students\u2019 \ndata only. By working on this project, we can enhance the class management and teachers \ncan be sure that the student who is present in the class does belongs to the class and limit \nthe defaulter to do the forgery in exams and attending classes. \nggYHY54c3c1f9hcg5579%$V#C9VI \nThe purpose of this project is using AI in educational departments and track the student \nattendances. By using this project, we can identify the faces of the students with the \nenrolled list so be make sure.  \nThe libraries and concept this project are based on is deep neural network and machine \nlearning concepts which we have learned in our training programs and we have practice all \nof them on related project and how we can get the idea of all these libraries in professional \nworld projects while using Python and where we have several libraries available like deep \nface and emotion recognition. Vt7v9bb8v4vw2c79vpjb6reb76fcgstHJKHK73CV43XF \nThe workflow of this project is goes like this; \nWe will provide the input images \u2192 detect \u2192 transform \u2192 crop \u2192 deep neural network  \n \n13 \nFrom this point it will goes into representation point where we have three options to work \non clustering \u2192 similarity detection and classification. It depends on to what extends we \nwill go depends on the mentor. We can run more analysis by using these libraries and make \nit vaster by running emotion recognition, object detection, classification based on what \nclasses and also it should be representational and create and API for representation of this \nproject where we can see the full potential of this application.  \nOutcome of the project:  \nPoint of the undertaking is to effectively perceive understudy in a web-based test and can \nfollow understudy's class participation. These days due to Coronavirus pandemic connection \namong understudy and educator is nearly non-existent and extremely less intelligent. So, \nwhen understudy wanted to skirt the class and attempt to hoodwink the instructor to get a \nfree participation for the class, this framework wouldn't allow them to get it done. It will \nperceive understudy face with it put away data set coordinate with understudy separate id \nand fill the participation and store it in a succeed sheet with having every one of the \nindividual subtleties of the understudy."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "7.1",
+                    "name": "REFLECTIVE JOURNAL ENTRIES",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "REFLECTIVE JOURNAL ENTRIES"
+                },
+                {
+                    "goal": null,
+                    "id": "7.2",
+                    "name": "The r",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The reflective journal has the information of all the weeks till now which are one to sixth \nweek so far, it includes all the detailed discussion of the activities which are carried forward \nin this program and the detailed description of the task has been assigned and learning \nobjectives which has been delivered so far from the organization and mentor. This journal \nhelps me to keep track of my performance in all over the period of this program. The \napproach used to write this journal is pretty informative that is called DIEP approach as \ngiven in the template, where the word \u2018D\u2019 stands for describe which hold the objective of \nwhat happened? What did I see? What did I read? What did I have heard? And so on while \nthe word \u2018I\u2019 stands for interpretation of the events which occurred during this program and \nhave detailed about new insights, my connection with other attendees presented in  this \nprogram, my feelings towards them, the team work if there\u2019s any involved, my hypothesis \nfollowed by conclusion and then we have the word \u2018E\u2019 which sums up the efficiency of what \nI have observed, my opinion regarding those observations, effectiveness of observation and \non what grounds I am making these experiences count, last but not the least we have the \nword \u2018P\u2019 which stands for planning of how this learning experience is useful in future for my \ncareer and what its serves in the long professional run and what are my recommendations.  \nAll the fellow activates and task happened under the supervision of the mentor Ivan \nBakhshayeshi and the coordinator of this program who is Jennifer Yang."
+                },
+                {
+                    "goal": null,
+                    "id": "7.3",
+                    "name": "WEEK#07",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "WEEK#07"
+                },
+                {
+                    "goal": null,
+                    "id": "7.4",
+                    "name": "In th",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "In the 7th week we have kick start of the project, in 1st session of the week was all about \nconsultation hour where we discussed the overview of the project and my mentor Mr. Ivan \nhas demonstrated the project\u2019s aim and purpose and importance of this deep learning \nproject in the real world.  \nWhile discussing the project outcomes, we come across that this is the very vast project and \nhas previously been worked on but still it does have so many features which can be \nintegrated with it, this session we discussed that our mentor has also worked in this kind of \nproject in his professional life and how hard it is to work with big data in cooperation with \nthis kind of application.  \nOur mentor has also discussed what are the protocols to work on this project where we \ncome across that from now on after easter break we will have two session per week same \nas past but in the first session we will assign the task related to the project and in the \nsecond session we all have present our work to the mentor.  \nIn this meeting we have also discussed the related problems regarding this project and \neveryone has a say who related to the data science background what we have achieve in \nour university times and what deep learning projects we have worked with on academic \nlevel and in the end, we have been assigned to study related or similar problems of face \nrecognition systems and how deep we can go and what challenges we can face while \nworking on this application. The enthusiasm and support from the mentor were pretty high \nwhich gives me motivation to do better.  \nIn the 2nd session we discussed the related problems and challenges which needs to \novercome while working on this project. The libraries we have explored related to face \nrecognition system been discussed to and to what extend we should take this project been"
+                },
+                {
+                    "goal": null,
+                    "id": "7.5",
+                    "name": "15 \nh",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "15 \nhighlighted too. In the end, we got our rescheduled for the upcoming sessions and how we \nwill proceed with these in future after easter break.  \nIn conclusion, so we have great learning environment provided by ITIC team and all our \nqueries has been entertained from both our mentor and Ms. Jennifer."
+                },
+                {
+                    "goal": null,
+                    "id": "7.6",
+                    "name": "This ",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "This reflective journal holds the detailed events\u2019 entries till week#7 as we will go forward \nthere\u2019s going to be new findings, observations and learning experiences will come by time. \nThe project has been kicked in from the last week and as by mentor there\u2019s going be one \nsession per week which will be reserved for consultation and the other one would use for \npresentation of the work we will perform and keeping in loop with Mr. Ivan would help me \nto get better learning outcomes out of this program, so far this is what I have observed, He \nalso mentioned that in consulting session we all will be provided with different task which \nwe need to practice and present in the second session and these meetings would be really \nprofessional where you have to come up with different ideas and professional mindset \nalong with the research work home work so you can answer all the related queries of the \nattendees."
+                },
+                {
+                    "goal": null,
+                    "id": "7.7",
+                    "name": "WEEK#08",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "WEEK#08"
+                },
+                {
+                    "goal": null,
+                    "id": "7.8",
+                    "name": "The 8",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The 8th week is started with project initialization.  \nThis week, we have discussed about the objective of the project, where our mentor \nexplained what we are going to working on, which is going to be a student attendance \nsystem by using face recognition method. This project will be able to detect the faces of the \nstudent through live camera which helps the teachers to mark student attendance in online \nclasses. To start working on this project first we need background knowledge of the \nobjective and the available packages, so Mr. Ivan has shared quite good knowledge and \nmaterial of how these application works and their specifications.  \nWe have been assigned the task to start creating database by using TensorFlow data \naugmentation technique and explore all the related like image data generator and create \nand data base to start working, we all have to create a database of at least 20 images by \nusing keras data augmentation techniques and shared it around so we can go further from \nthere.  \nTo learn and explore about this project is an interesting part and working with the \nprofessional mentor helping me to clear my theories which I was shy enough to ask in my \nclass."
+                },
+                {
+                    "goal": null,
+                    "id": "7.9",
+                    "name": "16 \nW",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "16 \nWEEK#09 \nThe 9th week is started working on the project.  \nThis week, we have discussed about the how to create the database for the project, our \nMentor has shown us how it needs to be done share some resources for the reference as \nwell, we have started making database that consists of images of the student, we are all \nadvised to share our databases with each other so we can test our model and get better and \naccurate results.  \nThe database should be created by using python library CV2 which will access your live \ncamera take snapshot which should be uploaded on some medium to be shared across the \nmates, so far, we are successful to create our individual datasets now we need to use keras \ndata augmentation techniques to train our data and get the results. In the first meeting we \nhave presented our datasets and discussed the issues facing while creating them.  \nWe have been assigned the task to start working with the database by using TensorFlow \ndata augmentation technique and do data augmentation by using keras libraries and \nexplore all its face recognition related tools."
+                },
+                {
+                    "goal": null,
+                    "id": "7.10",
+                    "name": "WEEK#",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "WEEK#10 \nThe 10th week is making progress on the project.  \nThis week, we have presented our initial work to our mentor which is created databases, \nthis week while working on project I have explored CV2 libraries which use to classifier as \ndata collected before that was not very much productive so I am improving my data \ncollection process for which I have explored CV2 frontal face classifier and capture 100 more \npictures so we can have more data to work with, As presented to Mr. Ivan we have \ndiscussed that this is an good approach for collection of data. The next step is augmentation \nof keras, I have explored few keras applications like VGG16 for classification of data by using \nVGG16 I have so far successful to train my model which is giving me quite good accuracy but \nit needs to be mitigated as I believe my model is overfitting on my current data while \ndiscussing these points to our mentor, we have tried few things and he suggested to try \nsome other application of kera which are imageDataGenerator and, etc.  \nWe have assigned to go on the next step which is recognition as far we are quite on track \nand on timeline with the project meanwhile, I am trying to work on how to use facenet and \nother application available for that I am going through some research and making good use \nof papers available regarding face recognition."
+                },
+                {
+                    "goal": null,
+                    "id": "7.11",
+                    "name": "17 \nW",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "17 \nWEEK#11"
+                },
+                {
+                    "goal": null,
+                    "id": "7.12",
+                    "name": "The 1",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The 11\nth week is resolving discrepancies in the project.  \nThis week, we have discussed about the challenges we are getting while working on the \nproject, in the first session of this week we have presented the updates on your projects \nwhich was the one step up in the work of face recognition. I have successfully trained few \nmodels over my data but also while discussing the issues facing, I have found out that I need \nto try to use different approach and our mentor has shown us few different libraries which \nare available and would be much easier to resolve the accuracy issues I am facing while \nworking on the environment. In the second session we have discussed the market of data \nscience industry and quite few insights of what and how we all can get ready ourselves for \nthe coming chapter of our lives and also while discussing on project we have resolved some \nimportant issues related to CV2 libraries, also to go forward we have been assigned a task to \ntry use face recognition library which has C++ features and how we can integrate it with our \nproject to get better results and mark attendance in csv file.  \nSo far, we have done augmentation which is the labelling of the data, then we have done \nthe classification which is comparing and telling us which class the data belongs too now we \nare working on the marking the attendance by comparing the face from webcam and mark \nthe personnel attendance in the csv file.  \nWEEK#12"
+                },
+                {
+                    "goal": null,
+                    "id": "7.13",
+                    "name": "The 1",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The 12th week is discussing the new findings and work environment."
+                },
+                {
+                    "goal": null,
+                    "id": "7.14",
+                    "name": "In th",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "In the first session we have discussed the issues we are facing in the project by using face \nrecognition library of python which is already been build and to incorporate it with our \nenvironment I was getting few errors which I have discussed with the mentor and we found \na better solution regarding that issue, in this meeting everyone has discussed what they \nhave learned so far and how it\u2019s helping them to get done this project and for the next \nsession we have been asked to have a presentation to show what we have done so far on \nthe project and present it as our final presentation of this internship."
+                },
+                {
+                    "goal": null,
+                    "id": "7.15",
+                    "name": "In th",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "In the second session we have been asked to present our project in form of presentation, I \nhave presented my project in PPT and so far, get succussed to achieve the objective of the \nproject.  \nThis was our last session as an internee and we exchange feedback of the program overall \nand Mr. Ivan gave us few tips on how we can make our resume better and how to get \nprepared for the interviews and what resources we can use for job application."
+                }
+            ],
+            "goal": null,
+            "id": 7,
+            "name": "REFLECTIVE JOURNAL ENTRIES",
+            "nodeType": "Section",
+            "page": 14,
+            "text": "REFLECTIVE JOURNAL ENTRIES \n \nThe reflective journal has the information of all the weeks till now which are one to sixth \nweek so far, it includes all the detailed discussion of the activities which are carried forward \nin this program and the detailed description of the task has been assigned and learning \nobjectives which has been delivered so far from the organization and mentor. This journal \nhelps me to keep track of my performance in all over the period of this program. The \napproach used to write this journal is pretty informative that is called DIEP approach as \ngiven in the template, where the word \u2018D\u2019 stands for describe which hold the objective of \nwhat happened? What did I see? What did I read? What did I have heard? And so on while \nthe word \u2018I\u2019 stands for interpretation of the events which occurred during this program and \nhave detailed about new insights, my connection with other attendees presented in  this \nprogram, my feelings towards them, the team work if there\u2019s any involved, my hypothesis \nfollowed by conclusion and then we have the word \u2018E\u2019 which sums up the efficiency of what \nI have observed, my opinion regarding those observations, effectiveness of observation and \non what grounds I am making these experiences count, last but not the least we have the \nword \u2018P\u2019 which stands for planning of how this learning experience is useful in future for my \ncareer and what its serves in the long professional run and what are my recommendations.  \nAll the fellow activates and task happened under the supervision of the mentor Ivan \nBakhshayeshi and the coordinator of this program who is Jennifer Yang.  \n \n \nWEEK#07 \n \nIn the 7th week we have kick start of the project, in 1st session of the week was all about \nconsultation hour where we discussed the overview of the project and my mentor Mr. Ivan \nhas demonstrated the project\u2019s aim and purpose and importance of this deep learning \nproject in the real world.  \nWhile discussing the project outcomes, we come across that this is the very vast project and \nhas previously been worked on but still it does have so many features which can be \nintegrated with it, this session we discussed that our mentor has also worked in this kind of \nproject in his professional life and how hard it is to work with big data in cooperation with \nthis kind of application.  \nOur mentor has also discussed what are the protocols to work on this project where we \ncome across that from now on after easter break we will have two session per week same \nas past but in the first session we will assign the task related to the project and in the \nsecond session we all have present our work to the mentor.  \nIn this meeting we have also discussed the related problems regarding this project and \neveryone has a say who related to the data science background what we have achieve in \nour university times and what deep learning projects we have worked with on academic \nlevel and in the end, we have been assigned to study related or similar problems of face \nrecognition systems and how deep we can go and what challenges we can face while \nworking on this application. The enthusiasm and support from the mentor were pretty high \nwhich gives me motivation to do better.  \nIn the 2nd session we discussed the related problems and challenges which needs to \novercome while working on this project. The libraries we have explored related to face \nrecognition system been discussed to and to what extend we should take this project been \n \n15 \nhighlighted too. In the end, we got our rescheduled for the upcoming sessions and how we \nwill proceed with these in future after easter break.  \nIn conclusion, so we have great learning environment provided by ITIC team and all our \nqueries has been entertained from both our mentor and Ms. Jennifer. \n \n \nThis reflective journal holds the detailed events\u2019 entries till week#7 as we will go forward \nthere\u2019s going to be new findings, observations and learning experiences will come by time. \nThe project has been kicked in from the last week and as by mentor there\u2019s going be one \nsession per week which will be reserved for consultation and the other one would use for \npresentation of the work we will perform and keeping in loop with Mr. Ivan would help me \nto get better learning outcomes out of this program, so far this is what I have observed, He \nalso mentioned that in consulting session we all will be provided with different task which \nwe need to practice and present in the second session and these meetings would be really \nprofessional where you have to come up with different ideas and professional mindset \nalong with the research work home work so you can answer all the related queries of the \nattendees.  \n \nWEEK#08 \n \nThe 8th week is started with project initialization.  \nThis week, we have discussed about the objective of the project, where our mentor \nexplained what we are going to working on, which is going to be a student attendance \nsystem by using face recognition method. This project will be able to detect the faces of the \nstudent through live camera which helps the teachers to mark student attendance in online \nclasses. To start working on this project first we need background knowledge of the \nobjective and the available packages, so Mr. Ivan has shared quite good knowledge and \nmaterial of how these application works and their specifications.  \nWe have been assigned the task to start creating database by using TensorFlow data \naugmentation technique and explore all the related like image data generator and create \nand data base to start working, we all have to create a database of at least 20 images by \nusing keras data augmentation techniques and shared it around so we can go further from \nthere.  \nTo learn and explore about this project is an interesting part and working with the \nprofessional mentor helping me to clear my theories which I was shy enough to ask in my \nclass.  \n \n \n \n \n16 \nWEEK#09 \nThe 9th week is started working on the project.  \nThis week, we have discussed about the how to create the database for the project, our \nMentor has shown us how it needs to be done share some resources for the reference as \nwell, we have started making database that consists of images of the student, we are all \nadvised to share our databases with each other so we can test our model and get better and \naccurate results.  \nThe database should be created by using python library CV2 which will access your live \ncamera take snapshot which should be uploaded on some medium to be shared across the \nmates, so far, we are successful to create our individual datasets now we need to use keras \ndata augmentation techniques to train our data and get the results. In the first meeting we \nhave presented our datasets and discussed the issues facing while creating them.  \nWe have been assigned the task to start working with the database by using TensorFlow \ndata augmentation technique and do data augmentation by using keras libraries and \nexplore all its face recognition related tools.  \n \nWEEK#10 \nThe 10th week is making progress on the project.  \nThis week, we have presented our initial work to our mentor which is created databases, \nthis week while working on project I have explored CV2 libraries which use to classifier as \ndata collected before that was not very much productive so I am improving my data \ncollection process for which I have explored CV2 frontal face classifier and capture 100 more \npictures so we can have more data to work with, As presented to Mr. Ivan we have \ndiscussed that this is an good approach for collection of data. The next step is augmentation \nof keras, I have explored few keras applications like VGG16 for classification of data by using \nVGG16 I have so far successful to train my model which is giving me quite good accuracy but \nit needs to be mitigated as I believe my model is overfitting on my current data while \ndiscussing these points to our mentor, we have tried few things and he suggested to try \nsome other application of kera which are imageDataGenerator and, etc.  \nWe have assigned to go on the next step which is recognition as far we are quite on track \nand on timeline with the project meanwhile, I am trying to work on how to use facenet and \nother application available for that I am going through some research and making good use \nof papers available regarding face recognition.  \n \n \n \n \n17 \nWEEK#11 \n \nThe 11\nth week is resolving discrepancies in the project.  \nThis week, we have discussed about the challenges we are getting while working on the \nproject, in the first session of this week we have presented the updates on your projects \nwhich was the one step up in the work of face recognition. I have successfully trained few \nmodels over my data but also while discussing the issues facing, I have found out that I need \nto try to use different approach and our mentor has shown us few different libraries which \nare available and would be much easier to resolve the accuracy issues I am facing while \nworking on the environment. In the second session we have discussed the market of data \nscience industry and quite few insights of what and how we all can get ready ourselves for \nthe coming chapter of our lives and also while discussing on project we have resolved some \nimportant issues related to CV2 libraries, also to go forward we have been assigned a task to \ntry use face recognition library which has C++ features and how we can integrate it with our \nproject to get better results and mark attendance in csv file.  \nSo far, we have done augmentation which is the labelling of the data, then we have done \nthe classification which is comparing and telling us which class the data belongs too now we \nare working on the marking the attendance by comparing the face from webcam and mark \nthe personnel attendance in the csv file.  \nWEEK#12 \n \nThe 12th week is discussing the new findings and work environment.  \n \nIn the first session we have discussed the issues we are facing in the project by using face \nrecognition library of python which is already been build and to incorporate it with our \nenvironment I was getting few errors which I have discussed with the mentor and we found \na better solution regarding that issue, in this meeting everyone has discussed what they \nhave learned so far and how it\u2019s helping them to get done this project and for the next \nsession we have been asked to have a presentation to show what we have done so far on \nthe project and present it as our final presentation of this internship.  \n \nIn the second session we have been asked to present our project in form of presentation, I \nhave presented my project in PPT and so far, get succussed to achieve the objective of the \nproject.  \nThis was our last session as an internee and we exchange feedback of the program overall \nand Mr. Ivan gave us few tips on how we can make our resume better and how to get \nprepared for the interviews and what resources we can use for job application."
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "8.1.1",
+                            "name": "Fig 1",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "Fig 1.1. Collection of Data \nSample#02 \nTraining of VGG model."
+                        }
+                    ],
+                    "goal": null,
+                    "id": "8.1",
+                    "name": "Fig 1.1. Collection of Data",
+                    "nodeType": "Section",
+                    "page": 18,
+                    "text": "Fig 1.1. Collection of Data \nSample#02 \nTraining of VGG model."
+                },
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "8.2.1",
+                            "name": "Fig 1.2. Model Training",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Fig 1.2. Model Training"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.2.2",
+                            "name": "19 \nS",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "19 \nSample#03"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.2.3",
+                            "name": "Data Classification:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Data Classification:"
+                        }
+                    ],
+                    "goal": null,
+                    "id": "8.2",
+                    "name": "Fig 1.2. Model Training",
+                    "nodeType": "Section",
+                    "page": 18,
+                    "text": "Fig 1.2. Model Training \n \n \n19 \nSample#03 \n \nData Classification:"
+                },
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "8.3.1",
+                            "name": "Fig 1.3. Data Classification",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Fig 1.3. Data Classification"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.3.2",
+                            "name": "Sample#04",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Sample#04"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.3.3",
+                            "name": "Project Output:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Project Output:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.3.4",
+                            "name": "1st P",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "1st Picture shows the detection and 2nd shows the output result."
+                        }
+                    ],
+                    "goal": null,
+                    "id": "8.3",
+                    "name": "Fig 1.3. Data Classification",
+                    "nodeType": "Section",
+                    "page": 19,
+                    "text": "Fig 1.3. Data Classification \n \n \n \n \n \nSample#04 \n \nProject Output: \n \n1st Picture shows the detection and 2nd shows the output result."
+                },
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "8.4.1",
+                            "name": "Fig 1.4. Project Output",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Fig 1.4. Project Output"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.4.2",
+                            "name": "20 \nS",
+                            "nodeType": "Paragraph",
+                            "page": null,
+                            "text": "20 \nSample#05"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.4.3",
+                            "name": "Attendance csv file:",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Attendance csv file:"
+                        },
+                        {
+                            "goal": null,
+                            "id": "8.4.4",
+                            "name": "It is the screenshot of the attendance csv file.",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "It is the screenshot of the attendance csv file."
+                        }
+                    ],
+                    "goal": null,
+                    "id": "8.4",
+                    "name": "Fig 1.4. Project Output",
+                    "nodeType": "Section",
+                    "page": 19,
+                    "text": "Fig 1.4. Project Output \n \n \n \n \n \n \n \n \n \n \n \n \n20 \nSample#05 \n \nAttendance csv file: \n \nIt is the screenshot of the attendance csv file."
+                },
+                {
+                    "children": [
+                        {
+                            "goal": null,
+                            "id": "8.5.1",
+                            "name": "Fig 1.5. CSV file",
+                            "nodeType": "Title",
+                            "page": null,
+                            "text": "Fig 1.5. CSV file"
+                        }
+                    ],
+                    "goal": null,
+                    "id": "8.5",
+                    "name": "Fig 1.5. CSV file",
+                    "nodeType": "Section",
+                    "page": 20,
+                    "text": "Fig 1.5. CSV file"
+                }
+            ],
+            "goal": null,
+            "id": 8,
+            "name": "WORK SAMPLES",
+            "nodeType": "Section",
+            "page": 18,
+            "text": "WORK SAMPLES \n \nThe work samples include all the work samples in this training module and the assigned task \nwhich has been provided during these times. These samples related to deep learning and \nmachine learning.  \n \nSample#01 \nOpenCV for collection of Data:"
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "9.1",
+                    "name": "CRITICAL ANALYSIS",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "CRITICAL ANALYSIS"
+                },
+                {
+                    "goal": null,
+                    "id": "9.2",
+                    "name": "The c",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The critical analysis over this internship program and how it has been benefiting me to \nexpand my knowledge and get idea of professional world of data science industry. This \ninternship helps me to find my career path and get the idea of professional world and \nworking under professional data scientist mentor was the experience to get hands on \nexperience of all the theoretical work in professional environment.  \nBy getting this opportunity I have come across to well written papers of projects related to \ndeep learning and machine learning and how we can label data and tools available like \nRobocop which I have never experience before this program."
+                },
+                {
+                    "goal": null,
+                    "id": "9.3",
+                    "name": "This ",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "This program has made me realise there\u2019s not only one right answer exist for a problem. \nHowever, it depends on how you are analysing the problem to get the insight of the data \nand while working with big data set what challenges we can face and how to tackle them \nwith efficient solutions. There are many research documents available and data science is \nbecoming the vast community with time where you can ask and discussion related issues \nyou are facing while working on any kind of project.  Jkhkjhkj bbjkbk kbkjbjkbjkbjbjbk jbkkbk"
+                },
+                {
+                    "goal": null,
+                    "id": "9.4",
+                    "name": "The t",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The theoretical knowledge I have learned during this degree was the basic of the data \nscience and to practice those in professional light is what makes me get better insight of \nthose complex concepts where I have discovered they are quite interesting and easy to \npractice and by working with ITIC  I have explored new ways to see the problem and where \nto look for its solution which always been an hustle for me, while working with ITIC I have \nlearned the ways of communicating, presenting, how to make work relations, how to \ndifferentiate between professional roles and how reporting hierarchy works, which was \nnever clear before. Ghjghjh nlk srttr cfchg bds456 89nhg 24sdx ,ll988 ctxs54676 \u2018.;;.778 bhh"
+                },
+                {
+                    "goal": null,
+                    "id": "9.5",
+                    "name": "As a ",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "As a case for my temporary position project expresses a totally different thought and an \nexcursion to leave on, so any old strategies or help are not useful in handling those \ncircumstances. So, I have accompanied a genuinely new thing to build my critical thinking \ncapacities and work efficiency. I have concentrated on research papers, utilized a current \ndataset yet my undertaking has its own new difficulties and arrangements."
+                },
+                {
+                    "goal": null,
+                    "id": "9.6",
+                    "name": "Furth",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "Furthermore, the hands-on experience of new tools like tableau, Robocop, google collab is \nmake this program worth a while, as I am more incline towards visualisation of data and \nreporting part of the analysis and how to control the specification of GPU and TPU was \nsomething which I have never come across before this program. The managing of \ncomputational layers and actually managing them in practice is way different than \ntheoretical concepts, while working with python on anaconda and making our project looks \npresentable is an integral part of work in our professional life. The explanation of analysis \nand making them understand while using interactive tools caught my attention and there \nare number of new tools available which are enhancing every day."
+                },
+                {
+                    "goal": null,
+                    "id": "9.7",
+                    "name": "The p",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The part of data visualisation in theory was based on basics of what suitable graphs we can \nuse but while working with ITIC and this program helps me explore more and better options \nlike 3D graphs, interactive reporting tools, which graphs is suitable with what type of \nanalysis and how we can make them visual and understandable."
+                },
+                {
+                    "goal": null,
+                    "id": "9.8",
+                    "name": "22 \nT",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "22 \nThe session of pre-processing data which I have learned in theoretically before and had a \nsurface level knowledge about it with small data set but while practicing pre-processing of \ndata in professional world and handling of big data is the thing which I always wanted to \nlearn and this program met my expectation regarding that. I have learned how and to what \nextend we need to pre-process our data set before running analysis on it. It gave me the \nidea that we have to limit our pre-processing of data set otherwise it can interfere with the \noutcomes and what basic procedure needs to be in mind while pre-processing of the data. \nWhen it comes to work with neural network what procedures we need to take and how \nlabelling of our data can help to what extent."
+                },
+                {
+                    "goal": null,
+                    "id": "9.9",
+                    "name": "The o",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The optimisation of model accuracy was the concept of machine learning which I have \npractice in theoretically but applying that concept on real application helps me to \nunderstand it\u2019s specification better and what and how to design the model while not \ndeviating from the problem was a challenging part for me learn and practice but this \nprogram and under the supervision of my mentor I have learned how we can select better \nmodel and how can optimize their accuracy with big data sets, the concept of epochs was \nbeen taught in the university but to insight of that I have learned in this training program \nand how we can select the number of epochs required for current type of computation."
+                },
+                {
+                    "goal": null,
+                    "id": "9.10",
+                    "name": "The I",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The ITIC education is a complete and professional organisation based on their working \nprojects and partners of this organisation we have the idea what standard I am going to \nlearn about the professional environment, the mentor I am working under is quite \nthoughtful who share his experiences every now and then which gives me idea of working in \nthe data science industry and what roles of data scientist holds. They have provided us \nlearning environment without any judgments and my mentor always appreciate the idea of \nparticipation in the session. While reviewing the training program he is enlighten us all the \ncomplex concepts of data science in easiest way possible which was remarkable. In this past \ncouple of weeks, we have many discussions about professional life and career counselling \nand which path I fit better to pursue in the future, on the other hand, Ms. Jennifer always \nactive in all the session along with Mr. Ivan to take closer look of how this program is going \nand she always welcome suggestions if there\u2019s any room for improvement. The overall \nexperience so far is worth it and I would say the ITIC is providing the bridge between \nuniversity to real professional world which is really helpful especially for the international \nstudents like me.  Dftio bdsru 6799 bgcf646 4323424 09880 bgvhg 2334 zsz nkjjk7688 fdgf"
+                },
+                {
+                    "goal": null,
+                    "id": "9.11",
+                    "name": "I wou",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "I would like to sum up my analysis by adding that, this program helps me to expand my \nthinking process and motived me to think outside of the box and come up with possible \nsolution rather just making sure to get the answer right as this is the learning environment \nwhere all types of wrongs are welcome to so we can discuss and get the better results, this \nprogram also helping me to learn team work and resource management as by learning \nunder Mr. Ivan it\u2019s quite fun and the experience with ITIC is overall remarkable."
+                }
+            ],
+            "goal": null,
+            "id": 9,
+            "name": "CRITICAL ANALYSIS",
+            "nodeType": "Section",
+            "page": 21,
+            "text": "CRITICAL ANALYSIS \n \nThe critical analysis over this internship program and how it has been benefiting me to \nexpand my knowledge and get idea of professional world of data science industry. This \ninternship helps me to find my career path and get the idea of professional world and \nworking under professional data scientist mentor was the experience to get hands on \nexperience of all the theoretical work in professional environment.  \nBy getting this opportunity I have come across to well written papers of projects related to \ndeep learning and machine learning and how we can label data and tools available like \nRobocop which I have never experience before this program.  \n \nThis program has made me realise there\u2019s not only one right answer exist for a problem. \nHowever, it depends on how you are analysing the problem to get the insight of the data \nand while working with big data set what challenges we can face and how to tackle them \nwith efficient solutions. There are many research documents available and data science is \nbecoming the vast community with time where you can ask and discussion related issues \nyou are facing while working on any kind of project.  Jkhkjhkj bbjkbk kbkjbjkbjkbjbjbk jbkkbk  \n \nThe theoretical knowledge I have learned during this degree was the basic of the data \nscience and to practice those in professional light is what makes me get better insight of \nthose complex concepts where I have discovered they are quite interesting and easy to \npractice and by working with ITIC  I have explored new ways to see the problem and where \nto look for its solution which always been an hustle for me, while working with ITIC I have \nlearned the ways of communicating, presenting, how to make work relations, how to \ndifferentiate between professional roles and how reporting hierarchy works, which was \nnever clear before. Ghjghjh nlk srttr cfchg bds456 89nhg 24sdx ,ll988 ctxs54676 \u2018.;;.778 bhh \n \nAs a case for my temporary position project expresses a totally different thought and an \nexcursion to leave on, so any old strategies or help are not useful in handling those \ncircumstances. So, I have accompanied a genuinely new thing to build my critical thinking \ncapacities and work efficiency. I have concentrated on research papers, utilized a current \ndataset yet my undertaking has its own new difficulties and arrangements.  \n \nFurthermore, the hands-on experience of new tools like tableau, Robocop, google collab is \nmake this program worth a while, as I am more incline towards visualisation of data and \nreporting part of the analysis and how to control the specification of GPU and TPU was \nsomething which I have never come across before this program. The managing of \ncomputational layers and actually managing them in practice is way different than \ntheoretical concepts, while working with python on anaconda and making our project looks \npresentable is an integral part of work in our professional life. The explanation of analysis \nand making them understand while using interactive tools caught my attention and there \nare number of new tools available which are enhancing every day.  \n \nThe part of data visualisation in theory was based on basics of what suitable graphs we can \nuse but while working with ITIC and this program helps me explore more and better options \nlike 3D graphs, interactive reporting tools, which graphs is suitable with what type of \nanalysis and how we can make them visual and understandable.  \n \n22 \nThe session of pre-processing data which I have learned in theoretically before and had a \nsurface level knowledge about it with small data set but while practicing pre-processing of \ndata in professional world and handling of big data is the thing which I always wanted to \nlearn and this program met my expectation regarding that. I have learned how and to what \nextend we need to pre-process our data set before running analysis on it. It gave me the \nidea that we have to limit our pre-processing of data set otherwise it can interfere with the \noutcomes and what basic procedure needs to be in mind while pre-processing of the data. \nWhen it comes to work with neural network what procedures we need to take and how \nlabelling of our data can help to what extent.  \n \nThe optimisation of model accuracy was the concept of machine learning which I have \npractice in theoretically but applying that concept on real application helps me to \nunderstand it\u2019s specification better and what and how to design the model while not \ndeviating from the problem was a challenging part for me learn and practice but this \nprogram and under the supervision of my mentor I have learned how we can select better \nmodel and how can optimize their accuracy with big data sets, the concept of epochs was \nbeen taught in the university but to insight of that I have learned in this training program \nand how we can select the number of epochs required for current type of computation.  \n \nThe ITIC education is a complete and professional organisation based on their working \nprojects and partners of this organisation we have the idea what standard I am going to \nlearn about the professional environment, the mentor I am working under is quite \nthoughtful who share his experiences every now and then which gives me idea of working in \nthe data science industry and what roles of data scientist holds. They have provided us \nlearning environment without any judgments and my mentor always appreciate the idea of \nparticipation in the session. While reviewing the training program he is enlighten us all the \ncomplex concepts of data science in easiest way possible which was remarkable. In this past \ncouple of weeks, we have many discussions about professional life and career counselling \nand which path I fit better to pursue in the future, on the other hand, Ms. Jennifer always \nactive in all the session along with Mr. Ivan to take closer look of how this program is going \nand she always welcome suggestions if there\u2019s any room for improvement. The overall \nexperience so far is worth it and I would say the ITIC is providing the bridge between \nuniversity to real professional world which is really helpful especially for the international \nstudents like me.  Dftio bdsru 6799 bgcf646 4323424 09880 bgvhg 2334 zsz nkjjk7688 fdgf  \n \nI would like to sum up my analysis by adding that, this program helps me to expand my \nthinking process and motived me to think outside of the box and come up with possible \nsolution rather just making sure to get the answer right as this is the learning environment \nwhere all types of wrongs are welcome to so we can discuss and get the better results, this \nprogram also helping me to learn team work and resource management as by learning \nunder Mr. Ivan it\u2019s quite fun and the experience with ITIC is overall remarkable."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "10.1",
+                    "name": "SWOT ANALYSIS",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "SWOT ANALYSIS"
+                },
+                {
+                    "goal": null,
+                    "id": "10.2",
+                    "name": "Strengths:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Strengths:"
+                },
+                {
+                    "goal": null,
+                    "id": "10.3",
+                    "name": "The I",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "The ITIC global is a core IT oriented company which is delivering IT solution all over the \nAustralia since last eleven years. This organisation is quite strong and holds a good \nreputation among the Information technology industry. The ITIC holds its strength in its \nboard member who are highly experience and courageous. The CEO of ITIC Mr. Stephen \nholds big list of work experience in his field of work, and being a managing director of ITIC \nsystems and education his vision of taking this organisation on higher level is quite inspiring, \nthere educational and research research centre holds collaboration with big names of NSW \nuniversity is their strength. ITIC is a worldwide administration IT arranged organization with \nan exceptionally experienced and regarded in their fields CEO and chiefs, they profoundly \nobjective situated and vocation cantered. Likewise, of the undertaking which are as of now \nrunning in the organization are profoundly cutting-edge and reasonable to current need of \ninnovation. Give an extraordinary climate to the clients and to their understudies which is \nexceptionally looked for in IT world. The team ITIC holds is well experienced and know what \nthey are doing, the expansion and being partner with Yirigaa will open new doors for ITIC as \nthey have introduced Mr. Cr. Jeff who is the chair member of the NSW investment of cyber \nsecurity hub which will leads ITIC to new level of success, they have also recently set a AI-\nresearch centre in the Macquarie university which will open new doors of opportunity for \nupcoming students. There are as of now three AIP industry streams including, AI-\nempowered Policing, AI-empowered Banking and AI-empowered instructing and realizing \nwhich are driven by the AIP research Centre\u2019s industry accomplices including Australian \nFederal Police (AFP), TATA Consultancy Services (TCS) and ITIC, with additional to come."
+                },
+                {
+                    "goal": null,
+                    "id": "10.4",
+                    "name": "Weakness:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Weakness:"
+                },
+                {
+                    "goal": null,
+                    "id": "10.5",
+                    "name": "As be",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "As being an freshie and not being able to get the full idea of their office because of COVID-\n19, I would say the weakness I have found is their way of corresponds as this program took \na little while to confirm first which was a hustle in the start and trusting the organisation \nwith time was a little of the worry but still in this time the correspondence from the \neducation department was updated but I would say there is a room of improvement in \nplanning. Furthermore, I would like to highlight the interface of their website which could \nbe improve as being a tech company they should improve the interface of their website as \nit\u2019s not very appealing to me and it does need an update. When we talk about their training \nprogram as I have come across it could get more better by adding some more advance \nlearning and if they can provide more material regarding their live project, it can help \nstudents to learn more expand their skills. Their Linked in profile seems old which needs \nnew update and should work on it as being an freshie student to check the standard of the \norganisation, the first thing we look into its organization\u2019s LinkedIn profile. I believe these \nare small issues of weakness which needs to be considered to uplift the busines and \nstandard of their organisation."
+                },
+                {
+                    "goal": null,
+                    "id": "10.6",
+                    "name": "24 \nO",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "24 \nOpportunities:"
+                },
+                {
+                    "goal": null,
+                    "id": "10.7",
+                    "name": "ITIC ",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "ITIC global as many big names partner under their belt and the deliverable products they are \nworking with has vast concept in upcoming times like cloud services, networking, cyber \nsecurity, The ITIC is providing great opportunities to the new students of background of data \nscience, cyber security and network engineers as well as it also providing the research \ncentre for artificial intelligence which is remarkable and giving hands on experience of \nworking on Telstra product and services for the students its big opportunity to grab in this \ncrucial times where pandemic has given us big hit in all regards to have the opportunity to \nexplore all these learning from the university was quite a challenge due to past \ncircumstances while ITIC has taken the lead in that learning department and providing the \nchance to learn in professional environment will open new gates of opportunities for the \nstudents. The career consulting you get while getting their training program it should be \nhighlighted here as it\u2019s not an easy thing to get in real world. ITIC is doing an great job of \ncreating opportunities in all big tech fields which is going to change the world and having \nexperience to learn on cisco technologies for networking students is a great way of \nexperiencing their theoretical concepts."
+                },
+                {
+                    "goal": null,
+                    "id": "10.8",
+                    "name": "Threats:",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "Threats:"
+                },
+                {
+                    "goal": null,
+                    "id": "10.9",
+                    "name": "As te",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "As technology industry is very vast and expanding everyday so there\u2019s competition for every \norganization exist in this industry and being in market you need to be insightful of all the \nnew products and business strategies introducing every day and night, ITIC does have threat \nwith few companies which could be challenging in coming time but I believe this \norganization is going in right way, there\u2019s always a chance to improve and get better so It \nwon\u2019t be hard to say that ITIC should get working with more partners on board and should \nintroduce more products and services in the marketing to beat their competitors. There are \nnot many organizations out their which can move ITIC capacities to set out really \ncollaborating open doors and venture. A portion of the organizations have profoundly \ncapable individuals at their scratch. Additionally, assuming that every one of the tasks are \nbegins all the while at the firm it is difficult to adapt to the undertaking cut off times."
+                }
+            ],
+            "goal": null,
+            "id": 10,
+            "name": "SWOT ANALYSIS",
+            "nodeType": "Section",
+            "page": 23,
+            "text": "SWOT ANALYSIS \n \nStrengths:  \n \nThe ITIC global is a core IT oriented company which is delivering IT solution all over the \nAustralia since last eleven years. This organisation is quite strong and holds a good \nreputation among the Information technology industry. The ITIC holds its strength in its \nboard member who are highly experience and courageous. The CEO of ITIC Mr. Stephen \nholds big list of work experience in his field of work, and being a managing director of ITIC \nsystems and education his vision of taking this organisation on higher level is quite inspiring, \nthere educational and research research centre holds collaboration with big names of NSW \nuniversity is their strength. ITIC is a worldwide administration IT arranged organization with \nan exceptionally experienced and regarded in their fields CEO and chiefs, they profoundly \nobjective situated and vocation cantered. Likewise, of the undertaking which are as of now \nrunning in the organization are profoundly cutting-edge and reasonable to current need of \ninnovation. Give an extraordinary climate to the clients and to their understudies which is \nexceptionally looked for in IT world. The team ITIC holds is well experienced and know what \nthey are doing, the expansion and being partner with Yirigaa will open new doors for ITIC as \nthey have introduced Mr. Cr. Jeff who is the chair member of the NSW investment of cyber \nsecurity hub which will leads ITIC to new level of success, they have also recently set a AI-\nresearch centre in the Macquarie university which will open new doors of opportunity for \nupcoming students. There are as of now three AIP industry streams including, AI-\nempowered Policing, AI-empowered Banking and AI-empowered instructing and realizing \nwhich are driven by the AIP research Centre\u2019s industry accomplices including Australian \nFederal Police (AFP), TATA Consultancy Services (TCS) and ITIC, with additional to come. \n \nWeakness:  \n \nAs being an freshie and not being able to get the full idea of their office because of COVID-\n19, I would say the weakness I have found is their way of corresponds as this program took \na little while to confirm first which was a hustle in the start and trusting the organisation \nwith time was a little of the worry but still in this time the correspondence from the \neducation department was updated but I would say there is a room of improvement in \nplanning. Furthermore, I would like to highlight the interface of their website which could \nbe improve as being a tech company they should improve the interface of their website as \nit\u2019s not very appealing to me and it does need an update. When we talk about their training \nprogram as I have come across it could get more better by adding some more advance \nlearning and if they can provide more material regarding their live project, it can help \nstudents to learn more expand their skills. Their Linked in profile seems old which needs \nnew update and should work on it as being an freshie student to check the standard of the \norganisation, the first thing we look into its organization\u2019s LinkedIn profile. I believe these \nare small issues of weakness which needs to be considered to uplift the busines and \nstandard of their organisation.  \n \n \n \n \n \n24 \nOpportunities:  \n \nITIC global as many big names partner under their belt and the deliverable products they are \nworking with has vast concept in upcoming times like cloud services, networking, cyber \nsecurity, The ITIC is providing great opportunities to the new students of background of data \nscience, cyber security and network engineers as well as it also providing the research \ncentre for artificial intelligence which is remarkable and giving hands on experience of \nworking on Telstra product and services for the students its big opportunity to grab in this \ncrucial times where pandemic has given us big hit in all regards to have the opportunity to \nexplore all these learning from the university was quite a challenge due to past \ncircumstances while ITIC has taken the lead in that learning department and providing the \nchance to learn in professional environment will open new gates of opportunities for the \nstudents. The career consulting you get while getting their training program it should be \nhighlighted here as it\u2019s not an easy thing to get in real world. ITIC is doing an great job of \ncreating opportunities in all big tech fields which is going to change the world and having \nexperience to learn on cisco technologies for networking students is a great way of \nexperiencing their theoretical concepts.  \n \nThreats:  \n \nAs technology industry is very vast and expanding everyday so there\u2019s competition for every \norganization exist in this industry and being in market you need to be insightful of all the \nnew products and business strategies introducing every day and night, ITIC does have threat \nwith few companies which could be challenging in coming time but I believe this \norganization is going in right way, there\u2019s always a chance to improve and get better so It \nwon\u2019t be hard to say that ITIC should get working with more partners on board and should \nintroduce more products and services in the marketing to beat their competitors. There are \nnot many organizations out their which can move ITIC capacities to set out really \ncollaborating open doors and venture. A portion of the organizations have profoundly \ncapable individuals at their scratch. Additionally, assuming that every one of the tasks are \nbegins all the while at the firm it is difficult to adapt to the undertaking cut off times."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "11.1",
+                    "name": "CONCLUSION",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "CONCLUSION"
+                },
+                {
+                    "goal": null,
+                    "id": "11.2",
+                    "name": "In th",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "In the end I will add that this temporary job opportunity gave me a lot of information and \nexpertise to be better and to succeed in my field, As being and data science student and \nhave background of computer science, I might want to grow my insight and ability in this \nfield to be a superior individual. Likewise, it showed me the significance of using time \nproductively, incredible skill and sheer spotlight on the assignments. It isn't simply my first \ninternship position yet it Is a pathway to make my future and be better \nThis initial multi week has been phenomenal to me and the training program taught me so \nmany aspect of problem solving and clear my theoretical concepts of data science and I am \nlooking forward to work on project by myself under supervision of ITIC well experience team \nwhich would I believe will get me learn new and better ways of working with knowledge I \nhave consumed over these past year and helps me to choose right career path for my future \nwhich makes me believe to have mentor and working under good leadership helps you \nimprove all over and I like want to show my appreciation towards every one individual who I \nhave been lucky to in touch with. To have the option to acquire critical thinking capacity and \nmentality has set me up a for a superior future. The task venture for me has recently started \nI incredibly and eager to invite impending next about a month and a half as I work on my \nundertaking. \nITIC has me given an extraordinary ability and instruments which are expected in the \npresent specialized world, it has likewise shown me the significance of initiative and to \nlikewise be a colleague. To put my thoughts forward and to pay attention to every other \nperson simultaneously. ITIC can possibly become one of the most incredible information \ntechnology organisations in Australia and can extend to worldwide in not-so-distant future."
+                },
+                {
+                    "goal": null,
+                    "id": "11.3",
+                    "name": "Yrtuy",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "Yrtuyet hdshjkfhsd bjdkscnjksnc cjksdkcns sd chjs dopsidpoas \\][\\]]\\ ghsjgdajhs \nw462837647823 dhjfvhwe623 bfueywg6t3 sdhbcjksnlks iu2h2 jdbfkjds skdy73247283 \nkcsdnkfsjdfb4y5783 sdfueryuiyru kdsjhfsejkf239874 bdbrwef 782394789237 \nscdjnbfshdt3423uiyc jwhfwhe2t3423u sdmfnesruiuio skjnqwehriuqoywer \nmhjbewrkqwehfbdkhj kjhwebfewq jhqwyt87324"
+                }
+            ],
+            "goal": null,
+            "id": 11,
+            "name": "CONCLUSION",
+            "nodeType": "Section",
+            "page": 25,
+            "text": "CONCLUSION \n \n \nIn the end I will add that this temporary job opportunity gave me a lot of information and \nexpertise to be better and to succeed in my field, As being and data science student and \nhave background of computer science, I might want to grow my insight and ability in this \nfield to be a superior individual. Likewise, it showed me the significance of using time \nproductively, incredible skill and sheer spotlight on the assignments. It isn't simply my first \ninternship position yet it Is a pathway to make my future and be better \nThis initial multi week has been phenomenal to me and the training program taught me so \nmany aspect of problem solving and clear my theoretical concepts of data science and I am \nlooking forward to work on project by myself under supervision of ITIC well experience team \nwhich would I believe will get me learn new and better ways of working with knowledge I \nhave consumed over these past year and helps me to choose right career path for my future \nwhich makes me believe to have mentor and working under good leadership helps you \nimprove all over and I like want to show my appreciation towards every one individual who I \nhave been lucky to in touch with. To have the option to acquire critical thinking capacity and \nmentality has set me up a for a superior future. The task venture for me has recently started \nI incredibly and eager to invite impending next about a month and a half as I work on my \nundertaking. \nITIC has me given an extraordinary ability and instruments which are expected in the \npresent specialized world, it has likewise shown me the significance of initiative and to \nlikewise be a colleague. To put my thoughts forward and to pay attention to every other \nperson simultaneously. ITIC can possibly become one of the most incredible information \ntechnology organisations in Australia and can extend to worldwide in not-so-distant future. \n \nYrtuyet hdshjkfhsd bjdkscnjksnc cjksdkcns sd chjs dopsidpoas \\][\\]]\\ ghsjgdajhs \nw462837647823 dhjfvhwe623 bfueywg6t3 sdhbcjksnlks iu2h2 jdbfkjds skdy73247283 \nkcsdnkfsjdfb4y5783 sdfueryuiyru kdsjhfsejkf239874 bdbrwef 782394789237 \nscdjnbfshdt3423uiyc jwhfwhe2t3423u sdmfnesruiuio skjnqwehriuqoywer \nmhjbewrkqwehfbdkhj kjhwebfewq jhqwyt87324"
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "12.1",
+                    "name": "RECOMMENDATION",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "RECOMMENDATION"
+                },
+                {
+                    "goal": null,
+                    "id": "12.2",
+                    "name": "I don",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "I don't have those numerous proposals at this point, yet I will say this that kindly update the \nUI of the portal and make the material and talk recordings effectively accessible. My anxiety \nis particularly for address recordings I was unable to have the option to put a quick forward \nIf I simply have any desire to rapidly filter the learning on the grounds that the player \ncouldn't do that. Additionally, if it\u2019s conceivable you can recruit an additional a \nrepresentative just to take care of our specialized and information issue. I realize the staff \ncannot have the option to provide regarding student issue promptly once in a while and that \ncan block a learning interaction. \nI would also like to recommend they should work on their marketing as not many people \nknow about them while existing in the market for last ten years, they need a big marketing \nteam and few new big in date projects, collaboration with new clients and new services with \non board clients as these are big names of Australia which can help them grow as well.  \nIt would be good if I can get a chance to have few sessions in the office which can help the \nstudents to learn soft professional skills and helps them to make connection in their field of \nwork which could be helpful in the future and also it will enhance their ability to understand \nand grab communication skills on professional level."
+                }
+            ],
+            "goal": null,
+            "id": 12,
+            "name": "RECOMMENDATION",
+            "nodeType": "Section",
+            "page": 26,
+            "text": "RECOMMENDATION \n \nI don't have those numerous proposals at this point, yet I will say this that kindly update the \nUI of the portal and make the material and talk recordings effectively accessible. My anxiety \nis particularly for address recordings I was unable to have the option to put a quick forward \nIf I simply have any desire to rapidly filter the learning on the grounds that the player \ncouldn't do that. Additionally, if it\u2019s conceivable you can recruit an additional a \nrepresentative just to take care of our specialized and information issue. I realize the staff \ncannot have the option to provide regarding student issue promptly once in a while and that \ncan block a learning interaction. \nI would also like to recommend they should work on their marketing as not many people \nknow about them while existing in the market for last ten years, they need a big marketing \nteam and few new big in date projects, collaboration with new clients and new services with \non board clients as these are big names of Australia which can help them grow as well.  \nIt would be good if I can get a chance to have few sessions in the office which can help the \nstudents to learn soft professional skills and helps them to make connection in their field of \nwork which could be helpful in the future and also it will enhance their ability to understand \nand grab communication skills on professional level."
+        },
+        {
+            "children": [
+                {
+                    "goal": null,
+                    "id": "13.1",
+                    "name": "REFRENCES",
+                    "nodeType": "Title",
+                    "page": null,
+                    "text": "REFRENCES"
+                },
+                {
+                    "goal": null,
+                    "id": "13.2",
+                    "name": "1. ww",
+                    "nodeType": "Paragraph",
+                    "page": null,
+                    "text": "1. www.iticsystems.com \n2. www.iticlive.com \n3. www.iticlearning.com \n4. www.upriss.org.uk \n5. www.sciencedirect.com \n6. www.nltk.org \n7. www.sciencedirect.com \n8. www.github.com/krishnaik06 \n9. www.tensorflow.org/tutorials \n10. www.machinelearningmastery.com \n11. https://imgur.com/a/iBXpken \n12. www.youtube.com \n13. www.pypi.org/project/face-recognition/"
+                }
+            ],
+            "goal": null,
+            "id": 13,
+            "name": "REFRENCES",
+            "nodeType": "Section",
+            "page": 26,
+            "text": "REFRENCES \n \n1. www.iticsystems.com \n2. www.iticlive.com \n3. www.iticlearning.com \n4. www.upriss.org.uk \n5. www.sciencedirect.com \n6. www.nltk.org \n7. www.sciencedirect.com \n8. www.github.com/krishnaik06 \n9. www.tensorflow.org/tutorials \n10. www.machinelearningmastery.com \n11. https://imgur.com/a/iBXpken \n12. www.youtube.com \n13. www.pypi.org/project/face-recognition/"
+        }
+    ],
+    "goal": null,
+    "id": 0,
+    "name": "45698120.pdf",
+    "nodeType": "Root",
+    "page": null,
+    "text": null
+}

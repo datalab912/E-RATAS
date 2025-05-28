@@ -1,0 +1,50 @@
+1: based on simplest criterion number with ID .1.1.1.1 which is: Week 1 Subsection (essential) should cover at least one assignment, task, or activity from score source: 0.7
+has been gain 1.0 from 7.4 part of the answer
+because of the reason: : The text describes an assignment given in Week 1 to study problems related to face recognition systems. 
+
+
+2: based on simplest criterion number with ID .1.1.1.2 which is: Week 1 Subsection (essential) should cover at least one happening, event, or observation from score source: 0.7
+has been gain 1.0 from 7.4 part of the answer
+because of the reason: : The text describes the kick start of the project and multiple happenings and discussions in Week 1, fulfilling the criterion. 
+
+
+3: based on simplest criterion number with ID .1.1.1.3 which is: Week 1 Subsection (essential) should cover at least one connection and communication experience with others and organizations from score source: 0.7
+has been gain 1.0 from 7.2 part of the answer
+because of the reason: : Describes connections with mentor and other attendees, plus team work involved—meeting the criterion of communication experience. 
+
+
+4: based on simplest criterion number with ID .1.1.2.1 which is: Week 2 Subsection (essential) should cover at least one assignment, task, or activity from score source: 0.7
+has been gain 1.0 from 7.8 part of the answer
+because of the reason: : Details an assignment in Week 2 involving creating a database using TensorFlow and keras data augmentation techniques. 
+
+
+5: based on simplest criterion number with ID .1.1.2.2 which is: Week 2 Subsection (essential) should cover at least one happening, event, or observation from score source: 0.7
+has been gain 1.0 from 7.8 part of the answer
+because of the reason: : Describes multiple events in Week 2, including project discussions, task assignments, and learning sessions, meeting the criterion. 
+
+
+6: based on simplest criterion number with ID .1.1.2.3 which is: Week 2 Subsection (essential) should cover at least one connection and communication experience with others and organizations from score source: 0.7
+has been gain 1.0 from 7.8 part of the answer
+because of the reason: : Details discussions and interactions with a mentor about the project's objectives and tasks, constituting connection and communication. 
+
+
+7: based on simplest criterion number with ID .1.1.3.1 which is: Week 3 Subsection (essential) should cover at least one assignment, task, or activity from score source: 0.7
+has been gain 1.0 from 7.9 part of the answer
+because of the reason: : The text details assignments and activities concerning database creation and data augmentation specifically in Week 3. 
+
+
+8: based on simplest criterion number with ID .1.1.3.2 which is: Week 3 Subsection (essential) should cover at least one happening, event, or observation from score source: 0.7
+has been gain 1.0 from 7.9 part of the answer
+because of the reason: : Details multiple happenings, events, and tasks clearly described for Week 3, including database creation and discussions on data processing techniques. 
+
+
+9: based on simplest criterion number with ID .1.1.3.3 which is: Week 3 Subsection (essential) should cover at least one connection and communication experience with others and organizations from score source: 0.7
+has been gain 1.0 from 7.9 part of the answer
+because of the reason: : Clearly details connections and communication experiences with the mentor and peers involving group collaboration on database creation during Week 3. 
+
+
+10: based on simplest criterion number with ID .1.2 which is: For subsection week 1, include information related to assignments from score source: 0.3
+has been gain 1.0 from 7.2 part of the answer
+because of the reason: : Mentions the detailed description of tasks assigned and learning objectives delivered, which relate to assignments in Week 1. 
+
+

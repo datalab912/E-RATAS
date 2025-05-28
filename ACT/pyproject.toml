@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "yirigaa_nlp"
+version = "0.0.1"
+
+[tool.pytest.ini_options]
+pythonpath = "src"

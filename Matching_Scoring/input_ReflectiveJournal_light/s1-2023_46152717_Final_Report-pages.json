@@ -1,0 +1,226 @@
+{
+    "id": "1",
+    "name": "Reflective journal Entities",
+    "nodeType": "section",
+    "text": "week 1 we were introduced to our project and were given a basic overview of how the \nproject will be executed, what machine learning algorithms we would be focusing on and \nlibraries that will be used, how to come up with datasets. in order to understand the project \nbetter we were given tasks to research which would give us an idea of what we can expect to \nwork on in the project. so, we looked at some initial research around the automatic marking \non assessments in education. we were given four tasks to research and had to show our progress \non any one of the following tasks. the task that i chose to work on and present was research \non the paper existing gan for generation of dataset. while researching and understanding \nthe paper i came across new concepts like gan (generative adversarial network), this is used \nto create new data that resembles the training data. this week was all about learning new \nconcepts which was very rewarding. i was introduced to a new concept of generating datasets. \nfor the week 2, we looked at the project in depth. what datasets are available for research. we \nlooked at the features that can be extracted for the assessments, in the features we looked at \ndifferent vectorization techniques like bag of words, tf-idf, word2vec, glove and fast text. \nthe techniques bag of words and tf-idf were relatable, since i have already learnt about \nthem. word2vec was a new concept to learn. we also looked at what kind of evaluation metrics \ncan be used in our project, the majorly used evaluation metrics for automatic scoring systems \nare quadrated weighted kappa, mean absolute error and pearson correlation coefficient. the \nmachine learning techniques that are generally used for automatic scoring systems are \nregression, classification and neural networks. in our project we intend to focus on the \nneural network technique. this week gave me a better picture of what we can expect from the \nproject. our project also aims at solving the contract cheating/ plagiarism problem. a solution \nto this problem was introduced where the student submits the paper and if plagiarism is detected \nthen a series of questions are generated and the student is sent a link for a video call, then it \nuses facial recognition to match face on webcam. the student answers the series of questions \nlive through video/audio/chat and these responses are the recorded. the answers are analysed \nbased on sentiment and predicts if the answers match the quality of the paper that was originally \nsubmitted by the student. initially we thought of setting a face-to-face meeting with the \nprofessor in order to overcome the contract cheating/ plagiarism problem, but the problem was \nfinding availability of student and professor at the same time and for this both would have to \n12 \n \nbe present in the campus. so, we came up with a better solution, which was explained above \nby sending a link for a video call. this week was rewarding, since we came up with solutions \nfor contract cheating. we were also asked to present a brief summary of what was discussed \nabout the project, i felt this was a good way of understanding and digging a bit deeper into the \nproject and understanding the project requirements. \nin week 3 we looked at the user interface for the project and research a paper that would be \nuseful for our project. we had a moqup for the user interface, where we saw all the students in \nthe class along with the papers submitted by them and also list of students under the contract \ncheating. there was a calendar, where the links for video call was visible. there was a page \nwith students and their grades. along with the user interface we looked at a research paper. \nthis was an interesting week since we got to see the user interface, we were given access to \nthe moqup where anybody with access could make changes to the user interface. \nin week 4, it was again a continuation of the previous week, we looked at the research paper. \nwe were asked to give a brief summary of how the bert language model works and how this \nconcept can be implemented in our project. this week was a bit challenging since we had to \nget familiar with a new concept called bert and had to come with an idea as to how we can \nimplement this in our project. after understanding the concept, it was easier to relate as to how \nwe can use this in our project.  \nin week 5, it involved in learning about bert in depth, we looked at the language \nunderstanding models, also saw recurrent neural networks and how this can be used to in our \nproject. i had previously learnt about this concept and have theoretical knowledge, now with \nthis project it has given me a more hands-on experience and more detailed understanding of \nhow this concept can be used. also saw the model architecture. since bert is based on \ntransformer concept, we looked at the transformer architecture, to get a better idea of what the \ninput to the model is and what output we can expect. we saw the detailed explanation of what \neach component does in the transformer architecture. this was very helpful in understanding \nwhat the transformer architecture actually meant. without the knowledge of what each \ncomponent used for in the architecture it would have been difficult to understand the basic \nworking of the architecture. \nin week 6 we looked at the continuation of the previous week, a detailed study on the \ncomponents of the transformer architecture and looked at the bert model and had a better \n13 \n \nunderstanding, looked at bert fine tuning in order to be able to use in our project, we also \nsaw the code for fine tuning and the code for bert pre-training. \nin week 7 we looked at the code for bbc, which was going to be used for our project with \nchanges according to our project and dataset. i tried understanding how the code worked and \nwhere the necessary changes were to be made. the bert model expects sequence of tokens \nas input, the input expects two special tokens [cls] and [sep]. the [cls] token is added to \nthe beginning of every sentence and is known as the classification token. the [sep] token is \nadded to the end of every sentence and is known as the special token. in order to obtain the \nformat, we use berttokenizer from the hugging face library. [pad] is used to fill the un used \ntokens. bertforsequenceclassification is used for fine tuning. the model building in the code \nexplains the model training. the dataset is split into training, testing and validation. since the \nsize of the dataset is large, we need to use gpu to train the model. lastly, we evaluate the \nmodel on the test dataset to check how the model classifies the text. \nin week 8 we ran the bert model for bbc code and looked at how the code worked. the \nbbc data deals with text classification. the dataset is a csv which has 2126 different texts and \neach of them are labelled under categories. the dataset has 5 categories: entertainment, sport, \ntechnology, business and politics. i ran the code with bbc-text dataset from kaggle and saw \nthat the test accuracy was 0.98. i ran the code for 5 epochs and observed that each epoch took \nabout 2 minutes to run. \n \n \n \nin week 9 we focused on finding a dataset for our project, we found the asap (automatic \nstudent assessment prize) dataset. the dataset has responses of students from grade 7 to \ngrade 10. this dataset consists of columns such as essay_number, essay_id, various rater \nscores and the essay. the score range is between 0-60. for our project we only focused on the \ntwo columns i.e., score and essay. this week was about extracting the dataset and \nunderstanding the dataset.  \ntest accuracy: 0.985 \n14 \n \nin week 10 we looked at running the code for asap dataset. since the dataset has a score \nrange of 0-60, i wanted to start with score range 0-5. i ran the code, made the necessary \nchanges in the code to suit our dataset. ran for 5 epochs and observed the following results. \n \n \n \n \n \n \nnext, i ran for 8 epochs and saw the following result for train accuracy. \n \n \n \n \n \n \n \n \nepochs \ntrain accuracy \n1 \n0.46 \n2 \n0.64 \n3 \n0.68 \n4 \n0.72 \n5 \n0.76 \nepochs \ntrain accuracy \n1 \n0.44 \n2 \n0.63 \n3 \n0.68 \n4 \n0.71 \n5 \n0.75 \n6 \n0.79 \n7 \n0.79 \n8 \n0.84 \n15 \n \nfrom the above results we observed that there was a significant increase in the train accuracy \nas the epochs were increased. \nin week 11, we looked at working on a slightly larger dataset and to observe how the training \naccuracy improves. i started with some pre-processing of data, which included cleaning of data. \nthere were some special characters in the dataset which did not add any value to the essay, so \ni removed them. this time i chose a wider range of scores 0-20. the dataset is split into \ntraining, testing and validation (80% ,10%, 10%) respectively. the following training accuracy \nresults were observed. \n \n \n \n \n \nthe time taken for each epoch was about 16 minutes, since we have a large dataset the time \nincreased and used gpu in order to run the model. the results were not satisfactory. \nin week 12, we looked at improving the results. we decided to try with different parameters. \nwe started with dropout - 0.5 and 0.6, learning rates - 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i \nchecked with all of the scenarios and observed the following results. \ndropout – 0.5 \n \n \n \nepochs \ntrain accuracy \n1 \n0.36 \n2 \n0.55 \n3 \n0.58 \n4 \n0.62 \n5 \n0.65 \nepochs \nlr = 1e-7 \ntrain accuracy test accuracy \n1 \n0.13 \n \n \n0.44 \n2 \n0.25 \n3 \n0.33 \n4 \n0.40 \n5 \n0.45 \nepochs \nlr = 1e-5 \ntrain accuracy \ntest accuracy \n1 \n0.50 \n \n \n0.57 \n2 \n0.62 \n3 \n0.73 \n4 \n0.83 \n5 \n0.87 \n16 \n \n \ndropout – 0.6 \n \n \n \n \n \n \n \nepochs \nlr = 2e-5 \ntrain accuracy \ntest accuracy \n1 \n0.50 \n \n \n0.56 \n2 \n0.60 \n3 \n0.68 \n4 \n0.77 \n5 \n0.82 \nepochs \nlr = 2e-7 \ntrain accuracy \ntest accuracy \n1 \n0.14 \n \n \n0.39 \n2 \n0.31 \n3 \n0.41 \n4 \n0.47 \n5 \n0.51 \nepochs \nlr = 1e-5 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.57 \n2 \n0.58 \n3 \n0.66 \n4 \n0.76 \n5 \n0.82 \nepochs \nlr = 1e-7 \ntrain accuracy \ntest accuracy \n1 \n0.10 \n \n \n0.40 \n2 \n0.22 \n3 \n0.29 \n4 \n0.34 \n5 \n0.64 \nepochs \nlr = 2e-5 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.56 \n2 \n0.56 \n3 \n0.62 \n4 \n0.70 \n5 \n0.76 \nepochs \nlr = 2e-7 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.48 \n2 \n0.48 \n3 \n0.56 \n4 \n0.62 \n5 \n0.70 \n17 \n \nthe training time for each epoch took about 20 minutes to run and eventually ran out of gpu. \ni switched to google colab pro to overcome the problem. the training and test results were \nfairly good. i tried with different dropout and learning rates to check for improvement in \naccuracy of results.  \nfirst, i checked with dropout = 0.5 and learning rates 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i \nobserved that there was a steady improvement in the train accuracy result and obtained test \naccuracy as well. the test accuracy was close enough for 1e-5 and 1e-6, but the test accuracy \nresult dropped for learning rate 1e-7.  \nthe test accuracy for 2e-5 and 2e-6 were close enough but dropped for 2e-7.  \nnext, i tried with dropout = 0.6 and learning rates 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i observed \nthat there was a steady improvement in the train accuracy result and the test accuracy result as \nwell. the test accuracy was close enough for 1e-5 and 1e-6, but the test accuracy dropped for \nlearning rate 1e-7.  \nthe test accuracy for 2e-5 and 2e-6 were close enough but dropped for 2e-7. \nthe above were the results obtained from the asap dataset. the challenges that i faced were \nlonger training time, the dataset was very large and it also consumed all of the gpu units. the \ndataset may require further cleaning, and this may lead to better accuracy results. for this \nproject we can look other datasets as well which are clearer and easier to understand. the \ncorpus dataset is one such example that can be used to train the model.  \n \n \n \n \n \n \n \n \n",
+    "page": null,
+    "goal": "Reflective journal Entities",
+    "children": [
+        {
+            "id": "1.1",
+            "name": "week 1",
+            "nodeType": "title",
+            "text": "week 1",
+            "page": null,
+            "goal": "week 1",
+            "children": []
+        },
+        {
+            "id": "1.2",
+            "name": "week 1 we",
+            "nodeType": "paragraph",
+            "text": "week 1 we were introduced to our project and were given a basic overview of how the \nproject will be executed, what machine learning algorithms we would be focusing on and \nlibraries that will be used, how to come up with datasets. in order to understand the project \nbetter we were given tasks to research which would give us an idea of what we can expect to \nwork on in the project. so, we looked at some initial research around the automatic marking \non assessments in education. we were given four tasks to research and had to show our progress \non any one of the following tasks. the task that i chose to work on and present was research \non the paper existing gan for generation of dataset. while researching and understanding \nthe paper i came across new concepts like gan (generative adversarial network), this is used \nto create new data that resembles the training data. this week was all about learning new \nconcepts which was very rewarding. i was introduced to a new concept of generating datasets. \nfor the",
+            "page": null,
+            "goal": "week 1 we were introduced to our project and were given a basic overview of how the \nproject will be executed, what machine learning algorithms we would be focusing on and \nlibraries that will be used, how to come up with datasets. in order to understand the project \nbetter we were given tasks to research which would give us an idea of what we can expect to \nwork on in the project. so, we looked at some initial research around the automatic marking \non assessments in education. we were given four tasks to research and had to show our progress \non any one of the following tasks. the task that i chose to work on and present was research \non the paper existing gan for generation of dataset. while researching and understanding \nthe paper i came across new concepts like gan (generative adversarial network), this is used \nto create new data that resembles the training data. this week was all about learning new \nconcepts which was very rewarding. i was introduced to a new concept of generating datasets. \nfor the",
+            "children": []
+        },
+        {
+            "id": "1.3",
+            "name": "week 2",
+            "nodeType": "title",
+            "text": "week 2",
+            "page": null,
+            "goal": "week 2",
+            "children": []
+        },
+        {
+            "id": "1.4",
+            "name": "week 2, we",
+            "nodeType": "paragraph",
+            "text": "week 2, we looked at the project in depth. what datasets are available for research. we \nlooked at the features that can be extracted for the assessments, in the features we looked at \ndifferent vectorization techniques like bag of words, tf-idf, word2vec, glove and fast text. \nthe techniques bag of words and tf-idf were relatable, since i have already learnt about \nthem. word2vec was a new concept to learn. we also looked at what kind of evaluation metrics \ncan be used in our project, the majorly used evaluation metrics for automatic scoring systems \nare quadrated weighted kappa, mean absolute error and pearson correlation coefficient. the \nmachine learning techniques that are generally used for automatic scoring systems are \nregression, classification and neural networks. in our project we intend to focus on the \nneural network technique. this week gave me a better picture of what we can expect from the \nproject. our project also aims at solving the contract cheating/ plagiarism problem. a solution \nto this problem was introduced where the student submits the paper and if plagiarism is detected \nthen a series of questions are generated and the student is sent a link for a video call, then it \nuses facial recognition to match face on webcam. the student answers the series of questions \nlive through video/audio/chat and these responses are the recorded. the answers are analysed \nbased on sentiment and predicts if the answers match the quality of the paper that was originally \nsubmitted by the student. initially we thought of setting a face-to-face meeting with the \nprofessor in order to overcome the contract cheating/ plagiarism problem, but the problem was \nfinding availability of student and professor at the same time and for this both would have to \n12 \n \nbe present in the campus. so, we came up with a better solution, which was explained above \nby sending a link for a video call. this week was rewarding, since we came up with solutions \nfor contract cheating. we were also asked to present a brief summary of what was discussed \nabout the project, i felt this was a good way of understanding and digging a bit deeper into the \nproject and understanding the project requirements. \nin",
+            "page": null,
+            "goal": "week 2, we looked at the project in depth. what datasets are available for research. we \nlooked at the features that can be extracted for the assessments, in the features we looked at \ndifferent vectorization techniques like bag of words, tf-idf, word2vec, glove and fast text. \nthe techniques bag of words and tf-idf were relatable, since i have already learnt about \nthem. word2vec was a new concept to learn. we also looked at what kind of evaluation metrics \ncan be used in our project, the majorly used evaluation metrics for automatic scoring systems \nare quadrated weighted kappa, mean absolute error and pearson correlation coefficient. the \nmachine learning techniques that are generally used for automatic scoring systems are \nregression, classification and neural networks. in our project we intend to focus on the \nneural network technique. this week gave me a better picture of what we can expect from the \nproject. our project also aims at solving the contract cheating/ plagiarism problem. a solution \nto this problem was introduced where the student submits the paper and if plagiarism is detected \nthen a series of questions are generated and the student is sent a link for a video call, then it \nuses facial recognition to match face on webcam. the student answers the series of questions \nlive through video/audio/chat and these responses are the recorded. the answers are analysed \nbased on sentiment and predicts if the answers match the quality of the paper that was originally \nsubmitted by the student. initially we thought of setting a face-to-face meeting with the \nprofessor in order to overcome the contract cheating/ plagiarism problem, but the problem was \nfinding availability of student and professor at the same time and for this both would have to \n12 \n \nbe present in the campus. so, we came up with a better solution, which was explained above \nby sending a link for a video call. this week was rewarding, since we came up with solutions \nfor contract cheating. we were also asked to present a brief summary of what was discussed \nabout the project, i felt this was a good way of understanding and digging a bit deeper into the \nproject and understanding the project requirements. \nin",
+            "children": []
+        },
+        {
+            "id": "1.5",
+            "name": "week 3",
+            "nodeType": "title",
+            "text": "week 3",
+            "page": null,
+            "goal": "week 3",
+            "children": []
+        },
+        {
+            "id": "1.6",
+            "name": "week 3 we",
+            "nodeType": "paragraph",
+            "text": "week 3 we looked at the user interface for the project and research a paper that would be \nuseful for our project. we had a moqup for the user interface, where we saw all the students in \nthe class along with the papers submitted by them and also list of students under the contract \ncheating. there was a calendar, where the links for video call was visible. there was a page \nwith students and their grades. along with the user interface we looked at a research paper. \nthis was an interesting week since we got to see the user interface, we were given access to \nthe moqup where anybody with access could make changes to the user interface. \nin",
+            "page": null,
+            "goal": "week 3 we looked at the user interface for the project and research a paper that would be \nuseful for our project. we had a moqup for the user interface, where we saw all the students in \nthe class along with the papers submitted by them and also list of students under the contract \ncheating. there was a calendar, where the links for video call was visible. there was a page \nwith students and their grades. along with the user interface we looked at a research paper. \nthis was an interesting week since we got to see the user interface, we were given access to \nthe moqup where anybody with access could make changes to the user interface. \nin",
+            "children": []
+        },
+        {
+            "id": "1.7",
+            "name": "week 4",
+            "nodeType": "title",
+            "text": "week 4",
+            "page": null,
+            "goal": "week 4",
+            "children": []
+        },
+        {
+            "id": "1.8",
+            "name": "week 4, it",
+            "nodeType": "paragraph",
+            "text": "week 4, it was again a continuation of the previous week, we looked at the research paper. \nwe were asked to give a brief summary of how the bert language model works and how this \nconcept can be implemented in our project. this week was a bit challenging since we had to \nget familiar with a new concept called bert and had to come with an idea as to how we can \nimplement this in our project. after understanding the concept, it was easier to relate as to how \nwe can use this in our project.  \nin",
+            "page": null,
+            "goal": "week 4, it was again a continuation of the previous week, we looked at the research paper. \nwe were asked to give a brief summary of how the bert language model works and how this \nconcept can be implemented in our project. this week was a bit challenging since we had to \nget familiar with a new concept called bert and had to come with an idea as to how we can \nimplement this in our project. after understanding the concept, it was easier to relate as to how \nwe can use this in our project.  \nin",
+            "children": []
+        },
+        {
+            "id": "1.9",
+            "name": "week 5",
+            "nodeType": "title",
+            "text": "week 5",
+            "page": null,
+            "goal": "week 5",
+            "children": []
+        },
+        {
+            "id": "1.10",
+            "name": "week 5, it",
+            "nodeType": "paragraph",
+            "text": "week 5, it involved in learning about bert in depth, we looked at the language \nunderstanding models, also saw recurrent neural networks and how this can be used to in our \nproject. i had previously learnt about this concept and have theoretical knowledge, now with \nthis project it has given me a more hands-on experience and more detailed understanding of \nhow this concept can be used. also saw the model architecture. since bert is based on \ntransformer concept, we looked at the transformer architecture, to get a better idea of what the \ninput to the model is and what output we can expect. we saw the detailed explanation of what \neach component does in the transformer architecture. this was very helpful in understanding \nwhat the transformer architecture actually meant. without the knowledge of what each \ncomponent used for in the architecture it would have been difficult to understand the basic \nworking of the architecture. \nin",
+            "page": null,
+            "goal": "week 5, it involved in learning about bert in depth, we looked at the language \nunderstanding models, also saw recurrent neural networks and how this can be used to in our \nproject. i had previously learnt about this concept and have theoretical knowledge, now with \nthis project it has given me a more hands-on experience and more detailed understanding of \nhow this concept can be used. also saw the model architecture. since bert is based on \ntransformer concept, we looked at the transformer architecture, to get a better idea of what the \ninput to the model is and what output we can expect. we saw the detailed explanation of what \neach component does in the transformer architecture. this was very helpful in understanding \nwhat the transformer architecture actually meant. without the knowledge of what each \ncomponent used for in the architecture it would have been difficult to understand the basic \nworking of the architecture. \nin",
+            "children": []
+        },
+        {
+            "id": "1.11",
+            "name": "week 6",
+            "nodeType": "title",
+            "text": "week 6",
+            "page": null,
+            "goal": "week 6",
+            "children": []
+        },
+        {
+            "id": "1.12",
+            "name": "week 6 we",
+            "nodeType": "paragraph",
+            "text": "week 6 we looked at the continuation of the previous week, a detailed study on the \ncomponents of the transformer architecture and looked at the bert model and had a better \n13 \n \nunderstanding, looked at bert fine tuning in order to be able to use in our project, we also \nsaw the code for fine tuning and the code for bert pre-training. \nin",
+            "page": null,
+            "goal": "week 6 we looked at the continuation of the previous week, a detailed study on the \ncomponents of the transformer architecture and looked at the bert model and had a better \n13 \n \nunderstanding, looked at bert fine tuning in order to be able to use in our project, we also \nsaw the code for fine tuning and the code for bert pre-training. \nin",
+            "children": []
+        },
+        {
+            "id": "1.13",
+            "name": "week 7",
+            "nodeType": "title",
+            "text": "week 7",
+            "page": null,
+            "goal": "week 7",
+            "children": []
+        },
+        {
+            "id": "1.14",
+            "name": "week 7 we",
+            "nodeType": "paragraph",
+            "text": "week 7 we looked at the code for bbc, which was going to be used for our project with \nchanges according to our project and dataset. i tried understanding how the code worked and \nwhere the necessary changes were to be made. the bert model expects sequence of tokens \nas input, the input expects two special tokens [cls] and [sep]. the [cls] token is added to \nthe beginning of every sentence and is known as the classification token. the [sep] token is \nadded to the end of every sentence and is known as the special token. in order to obtain the \nformat, we use berttokenizer from the hugging face library. [pad] is used to fill the un used \ntokens. bertforsequenceclassification is used for fine tuning. the model building in the code \nexplains the model training. the dataset is split into training, testing and validation. since the \nsize of the dataset is large, we need to use gpu to train the model. lastly, we evaluate the \nmodel on the test dataset to check how the model classifies the text. \nin",
+            "page": null,
+            "goal": "week 7 we looked at the code for bbc, which was going to be used for our project with \nchanges according to our project and dataset. i tried understanding how the code worked and \nwhere the necessary changes were to be made. the bert model expects sequence of tokens \nas input, the input expects two special tokens [cls] and [sep]. the [cls] token is added to \nthe beginning of every sentence and is known as the classification token. the [sep] token is \nadded to the end of every sentence and is known as the special token. in order to obtain the \nformat, we use berttokenizer from the hugging face library. [pad] is used to fill the un used \ntokens. bertforsequenceclassification is used for fine tuning. the model building in the code \nexplains the model training. the dataset is split into training, testing and validation. since the \nsize of the dataset is large, we need to use gpu to train the model. lastly, we evaluate the \nmodel on the test dataset to check how the model classifies the text. \nin",
+            "children": []
+        },
+        {
+            "id": "1.15",
+            "name": "week 8",
+            "nodeType": "title",
+            "text": "week 8",
+            "page": null,
+            "goal": "week 8",
+            "children": []
+        },
+        {
+            "id": "1.16",
+            "name": "week 8 we",
+            "nodeType": "paragraph",
+            "text": "week 8 we ran the bert model for bbc code and looked at how the code worked. the \nbbc data deals with text classification. the dataset is a csv which has 2126 different texts and \neach of them are labelled under categories. the dataset has 5 categories: entertainment, sport, \ntechnology, business and politics. i ran the code with bbc-text dataset from kaggle and saw \nthat the test accuracy was 0.98. i ran the code for 5 epochs and observed that each epoch took \nabout 2 minutes to run. \n \n \n \nin",
+            "page": null,
+            "goal": "week 8 we ran the bert model for bbc code and looked at how the code worked. the \nbbc data deals with text classification. the dataset is a csv which has 2126 different texts and \neach of them are labelled under categories. the dataset has 5 categories: entertainment, sport, \ntechnology, business and politics. i ran the code with bbc-text dataset from kaggle and saw \nthat the test accuracy was 0.98. i ran the code for 5 epochs and observed that each epoch took \nabout 2 minutes to run. \n \n \n \nin",
+            "children": []
+        },
+        {
+            "id": "1.17",
+            "name": "week 9",
+            "nodeType": "title",
+            "text": "week 9",
+            "page": null,
+            "goal": "week 9",
+            "children": []
+        },
+        {
+            "id": "1.18",
+            "name": "week 9 we",
+            "nodeType": "paragraph",
+            "text": "week 9 we focused on finding a dataset for our project, we found the asap (automatic \nstudent assessment prize) dataset. the dataset has responses of students from grade 7 to \ngrade 10. this dataset consists of columns such as essay_number, essay_id, various rater \nscores and the essay. the score range is between 0-60. for our project we only focused on the \ntwo columns i.e., score and essay. this week was about extracting the dataset and \nunderstanding the dataset.  \ntest accuracy: 0.985 \n14 \n \nin",
+            "page": null,
+            "goal": "week 9 we focused on finding a dataset for our project, we found the asap (automatic \nstudent assessment prize) dataset. the dataset has responses of students from grade 7 to \ngrade 10. this dataset consists of columns such as essay_number, essay_id, various rater \nscores and the essay. the score range is between 0-60. for our project we only focused on the \ntwo columns i.e., score and essay. this week was about extracting the dataset and \nunderstanding the dataset.  \ntest accuracy: 0.985 \n14 \n \nin",
+            "children": []
+        },
+        {
+            "id": "1.19",
+            "name": "week 10",
+            "nodeType": "title",
+            "text": "week 10",
+            "page": null,
+            "goal": "week 10",
+            "children": []
+        },
+        {
+            "id": "1.20",
+            "name": "week 10 we",
+            "nodeType": "paragraph",
+            "text": "week 10 we looked at running the code for asap dataset. since the dataset has a score \nrange of 0-60, i wanted to start with score range 0-5. i ran the code, made the necessary \nchanges in the code to suit our dataset. ran for 5 epochs and observed the following results. \n \n \n \n \n \n \nnext, i ran for 8 epochs and saw the following result for train accuracy. \n \n \n \n \n \n \n \n \nepochs \ntrain accuracy \n1 \n0.46 \n2 \n0.64 \n3 \n0.68 \n4 \n0.72 \n5 \n0.76 \nepochs \ntrain accuracy \n1 \n0.44 \n2 \n0.63 \n3 \n0.68 \n4 \n0.71 \n5 \n0.75 \n6 \n0.79 \n7 \n0.79 \n8 \n0.84 \n15 \n \nfrom the above results we observed that there was a significant increase in the train accuracy \nas the epochs were increased. \nin",
+            "page": null,
+            "goal": "week 10 we looked at running the code for asap dataset. since the dataset has a score \nrange of 0-60, i wanted to start with score range 0-5. i ran the code, made the necessary \nchanges in the code to suit our dataset. ran for 5 epochs and observed the following results. \n \n \n \n \n \n \nnext, i ran for 8 epochs and saw the following result for train accuracy. \n \n \n \n \n \n \n \n \nepochs \ntrain accuracy \n1 \n0.46 \n2 \n0.64 \n3 \n0.68 \n4 \n0.72 \n5 \n0.76 \nepochs \ntrain accuracy \n1 \n0.44 \n2 \n0.63 \n3 \n0.68 \n4 \n0.71 \n5 \n0.75 \n6 \n0.79 \n7 \n0.79 \n8 \n0.84 \n15 \n \nfrom the above results we observed that there was a significant increase in the train accuracy \nas the epochs were increased. \nin",
+            "children": []
+        },
+        {
+            "id": "1.21",
+            "name": "week 11",
+            "nodeType": "title",
+            "text": "week 11",
+            "page": null,
+            "goal": "week 11",
+            "children": []
+        },
+        {
+            "id": "1.22",
+            "name": "week 11, we",
+            "nodeType": "paragraph",
+            "text": "week 11, we looked at working on a slightly larger dataset and to observe how the training \naccuracy improves. i started with some pre-processing of data, which included cleaning of data. \nthere were some special characters in the dataset which did not add any value to the essay, so \ni removed them. this time i chose a wider range of scores 0-20. the dataset is split into \ntraining, testing and validation (80% ,10%, 10%) respectively. the following training accuracy \nresults were observed. \n \n \n \n \n \nthe time taken for each epoch was about 16 minutes, since we have a large dataset the time \nincreased and used gpu in order to run the model. the results were not satisfactory. \nin",
+            "page": null,
+            "goal": "week 11, we looked at working on a slightly larger dataset and to observe how the training \naccuracy improves. i started with some pre-processing of data, which included cleaning of data. \nthere were some special characters in the dataset which did not add any value to the essay, so \ni removed them. this time i chose a wider range of scores 0-20. the dataset is split into \ntraining, testing and validation (80% ,10%, 10%) respectively. the following training accuracy \nresults were observed. \n \n \n \n \n \nthe time taken for each epoch was about 16 minutes, since we have a large dataset the time \nincreased and used gpu in order to run the model. the results were not satisfactory. \nin",
+            "children": []
+        },
+        {
+            "id": "1.23",
+            "name": "week 12",
+            "nodeType": "title",
+            "text": "week 12",
+            "page": null,
+            "goal": "week 12",
+            "children": []
+        },
+        {
+            "id": "1.24",
+            "name": "week 12, we",
+            "nodeType": "paragraph",
+            "text": "week 12, we looked at improving the results. we decided to try with different parameters. \nwe started with dropout - 0.5 and 0.6, learning rates - 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i \nchecked with all of the scenarios and observed the following results. \ndropout – 0.5 \n \n \n \nepochs \ntrain accuracy \n1 \n0.36 \n2 \n0.55 \n3 \n0.58 \n4 \n0.62 \n5 \n0.65 \nepochs \nlr = 1e-7 \ntrain accuracy test accuracy \n1 \n0.13 \n \n \n0.44 \n2 \n0.25 \n3 \n0.33 \n4 \n0.40 \n5 \n0.45 \nepochs \nlr = 1e-5 \ntrain accuracy \ntest accuracy \n1 \n0.50 \n \n \n0.57 \n2 \n0.62 \n3 \n0.73 \n4 \n0.83 \n5 \n0.87 \n16 \n \n \ndropout – 0.6 \n \n \n \n \n \n \n \nepochs \nlr = 2e-5 \ntrain accuracy \ntest accuracy \n1 \n0.50 \n \n \n0.56 \n2 \n0.60 \n3 \n0.68 \n4 \n0.77 \n5 \n0.82 \nepochs \nlr = 2e-7 \ntrain accuracy \ntest accuracy \n1 \n0.14 \n \n \n0.39 \n2 \n0.31 \n3 \n0.41 \n4 \n0.47 \n5 \n0.51 \nepochs \nlr = 1e-5 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.57 \n2 \n0.58 \n3 \n0.66 \n4 \n0.76 \n5 \n0.82 \nepochs \nlr = 1e-7 \ntrain accuracy \ntest accuracy \n1 \n0.10 \n \n \n0.40 \n2 \n0.22 \n3 \n0.29 \n4 \n0.34 \n5 \n0.64 \nepochs \nlr = 2e-5 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.56 \n2 \n0.56 \n3 \n0.62 \n4 \n0.70 \n5 \n0.76 \nepochs \nlr = 2e-7 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.48 \n2 \n0.48 \n3 \n0.56 \n4 \n0.62 \n5 \n0.70 \n17 \n \nthe training time for each epoch took about 20 minutes to run and eventually ran out of gpu. \ni switched to google colab pro to overcome the problem. the training and test results were \nfairly good. i tried with different dropout and learning rates to check for improvement in \naccuracy of results.  \nfirst, i checked with dropout = 0.5 and learning rates 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i \nobserved that there was a steady improvement in the train accuracy result and obtained test \naccuracy as well. the test accuracy was close enough for 1e-5 and 1e-6, but the test accuracy \nresult dropped for learning rate 1e-7.  \nthe test accuracy for 2e-5 and 2e-6 were close enough but dropped for 2e-7.  \nnext, i tried with dropout = 0.6 and learning rates 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i observed \nthat there was a steady improvement in the train accuracy result and the test accuracy result as \nwell. the test accuracy was close enough for 1e-5 and 1e-6, but the test accuracy dropped for \nlearning rate 1e-7.  \nthe test accuracy for 2e-5 and 2e-6 were close enough but dropped for 2e-7. \nthe above were the results obtained from the asap dataset. the challenges that i faced were \nlonger training time, the dataset was very large and it also consumed all of the gpu units. the \ndataset may require further cleaning, and this may lead to better accuracy results. for this \nproject we can look other datasets as well which are clearer and easier to understand. the \ncorpus dataset is one such example that can be used to train the model.",
+            "page": null,
+            "goal": "week 12, we looked at improving the results. we decided to try with different parameters. \nwe started with dropout - 0.5 and 0.6, learning rates - 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i \nchecked with all of the scenarios and observed the following results. \ndropout – 0.5 \n \n \n \nepochs \ntrain accuracy \n1 \n0.36 \n2 \n0.55 \n3 \n0.58 \n4 \n0.62 \n5 \n0.65 \nepochs \nlr = 1e-7 \ntrain accuracy test accuracy \n1 \n0.13 \n \n \n0.44 \n2 \n0.25 \n3 \n0.33 \n4 \n0.40 \n5 \n0.45 \nepochs \nlr = 1e-5 \ntrain accuracy \ntest accuracy \n1 \n0.50 \n \n \n0.57 \n2 \n0.62 \n3 \n0.73 \n4 \n0.83 \n5 \n0.87 \n16 \n \n \ndropout – 0.6 \n \n \n \n \n \n \n \nepochs \nlr = 2e-5 \ntrain accuracy \ntest accuracy \n1 \n0.50 \n \n \n0.56 \n2 \n0.60 \n3 \n0.68 \n4 \n0.77 \n5 \n0.82 \nepochs \nlr = 2e-7 \ntrain accuracy \ntest accuracy \n1 \n0.14 \n \n \n0.39 \n2 \n0.31 \n3 \n0.41 \n4 \n0.47 \n5 \n0.51 \nepochs \nlr = 1e-5 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.57 \n2 \n0.58 \n3 \n0.66 \n4 \n0.76 \n5 \n0.82 \nepochs \nlr = 1e-7 \ntrain accuracy \ntest accuracy \n1 \n0.10 \n \n \n0.40 \n2 \n0.22 \n3 \n0.29 \n4 \n0.34 \n5 \n0.64 \nepochs \nlr = 2e-5 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.56 \n2 \n0.56 \n3 \n0.62 \n4 \n0.70 \n5 \n0.76 \nepochs \nlr = 2e-7 \ntrain accuracy \ntest accuracy \n1 \n0.47 \n \n \n0.48 \n2 \n0.48 \n3 \n0.56 \n4 \n0.62 \n5 \n0.70 \n17 \n \nthe training time for each epoch took about 20 minutes to run and eventually ran out of gpu. \ni switched to google colab pro to overcome the problem. the training and test results were \nfairly good. i tried with different dropout and learning rates to check for improvement in \naccuracy of results.  \nfirst, i checked with dropout = 0.5 and learning rates 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i \nobserved that there was a steady improvement in the train accuracy result and obtained test \naccuracy as well. the test accuracy was close enough for 1e-5 and 1e-6, but the test accuracy \nresult dropped for learning rate 1e-7.  \nthe test accuracy for 2e-5 and 2e-6 were close enough but dropped for 2e-7.  \nnext, i tried with dropout = 0.6 and learning rates 1e-5, 1e-6, 1e-7, 2e-5, 2e-6, 2e-7. i observed \nthat there was a steady improvement in the train accuracy result and the test accuracy result as \nwell. the test accuracy was close enough for 1e-5 and 1e-6, but the test accuracy dropped for \nlearning rate 1e-7.  \nthe test accuracy for 2e-5 and 2e-6 were close enough but dropped for 2e-7. \nthe above were the results obtained from the asap dataset. the challenges that i faced were \nlonger training time, the dataset was very large and it also consumed all of the gpu units. the \ndataset may require further cleaning, and this may lead to better accuracy results. for this \nproject we can look other datasets as well which are clearer and easier to understand. the \ncorpus dataset is one such example that can be used to train the model.",
+            "children": []
+        }
+    ]
+}

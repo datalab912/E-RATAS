@@ -1,0 +1,471 @@
+{
+    "id": ".1",
+    "leaf": 0,
+    "criteria": null,
+    "criteria_simplified_version": [
+        "The document should be divided to 3 subsections from week 1 to week 3 subsections (essemtial)\n\nfor all subsections related to weeks from 1 to 3, the subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication experience with others and organizations. ",
+        "The document should have critical analysis section\nthe critical analysis section should cover these consept\n- Theoretical concepts with your practical experience during your internship in the organization\n- Execute an overall analysis of the organization."
+    ],
+    "separate_criteria_number": 2,
+    "title": "Observation 1, Requirement: Coverage: with Comprehensive Analysis Theoretical Organizational Communication into 3 Assignment, Document Significant 2 Section: of Event, Division Task, Subsection Week Key Inclusion a Integration Experiences Concepts Activity Happening, Structure: Internship Subsections 2, and Section Critical Practical 1 or Connection",
+    "related_answer_section": [
+        "whole document",
+        "whole document"
+    ],
+    "score_source_ID": [
+        1,
+        2
+    ],
+    "score_source": [
+        0.7,
+        0.3
+    ],
+    "influence_type": null,
+    "influence_on_scoring": 100,
+    "list_sub_condition_score": [
+        [],
+        []
+    ],
+    "score_breakdown": [],
+    "matching_percentage": [],
+    "reasons": [],
+    "score": null,
+    "influence_section_type": null,
+    "children": [
+        {
+            "id": ".1.1",
+            "leaf": 0,
+            "criteria": "The document should be divided to 3 subsections from week 1 to week 3 subsections (essemtial)\n\nfor all subsections related to weeks from 1 to 3, the subsections should cover related information about 1- at least one assignment or tasks or activities 2- at least one happenings or events or observation 3- at least one connection and Communication experience with others and organizations. ",
+            "criteria_simplified_version": [
+                "The document should be divided into 3 subsections: Week 1, Week 2, and Week 3 subsections (essential)",
+                "For Week 1 Subsection:\n    - Cover at least one assignment, task, or activity\n    - Cover at least one happening, event, or observation\n    - Cover at least one connection and communication experience with others and organizations",
+                "For Week 2 Subsection:\n    - Cover at least one assignment, task, or activity\n    - Cover at least one happening, event, or observation\n    - Cover at least one connection and communication experience with others and organizations",
+                "For Week 3 Subsection:\n    - Cover at least one assignment, task, or activity\n    - Cover at least one happening, event, or observation\n    - Cover at least one connection and communication experience with others and organizations"
+            ],
+            "separate_criteria_number": 4,
+            "title": "Observation 1, Coverage: or Communication into 3 Document Significant 2 of Division Task, Subsection Week Key Inclusion a Experiences Activity Happening, Structure: Subsections 2, and 1 Connection Assignment, Event,",
+            "related_answer_section": "whole document",
+            "score_source_ID": 1,
+            "score_source": 0.7,
+            "influence_type": null,
+            "influence_on_scoring": 0.7,
+            "list_sub_condition_score": [],
+            "score_breakdown": [],
+            "matching_percentage": [],
+            "reasons": [],
+            "score": null,
+            "influence_section_type": "partial",
+            "children": [
+                {
+                    "id": ".1.1.1",
+                    "leaf": 1,
+                    "criteria": "The document should be divided into 3 subsections: Week 1, Week 2, and Week 3 subsections (essential)",
+                    "criteria_simplified_version": [
+                        "The document should be divided into 3 subsections: Week 1, Week 2, and Week 3 subsections (essential)"
+                    ],
+                    "separate_criteria_number": 1,
+                    "title": "Document Structure: Division into Week 1, Week 2, and Week 3 Subsections",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": null,
+                    "influence_on_scoring": 0.175,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score": null,
+                    "influence_section_type": "partial",
+                    "children": []
+                },
+                {
+                    "id": ".1.1.2",
+                    "leaf": 0,
+                    "criteria": "For Week 1 Subsection:\n    - Cover at least one assignment, task, or activity\n    - Cover at least one happening, event, or observation\n    - Cover at least one connection and communication experience with others and organizations",
+                    "criteria_simplified_version": [
+                        "For Week 1 Subsection, cover at least one assignment, task, or activity",
+                        "For Week 1 Subsection, cover at least one happening, event, or observation",
+                        "For Week 1 Subsection, cover at least one connection and communication experience with others and organizations"
+                    ],
+                    "separate_criteria_number": 3,
+                    "title": "Observation Coverage: Communication Assignment, Significant of Event, Task, Subsection Week Key Inclusion a Experiences Activity Happening, and 1 or Connection",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": null,
+                    "influence_on_scoring": 0.175,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score": null,
+                    "influence_section_type": "partial",
+                    "children": [
+                        {
+                            "id": ".1.1.2.1",
+                            "leaf": 1,
+                            "criteria": "For Week 1 Subsection, cover at least one assignment, task, or activity",
+                            "criteria_simplified_version": [
+                                "For Week 1 Subsection, cover at least one assignment, task, or activity"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 1 Subsection Coverage: Inclusion of a Key Assignment, Task, or Activity",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.2.2",
+                            "leaf": 1,
+                            "criteria": "For Week 1 Subsection, cover at least one happening, event, or observation",
+                            "criteria_simplified_version": [
+                                "For Week 1 Subsection, cover at least one happening, event, or observation"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 1 Subsection Coverage: Inclusion of a Significant Happening, Event, or Observation",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.2.3",
+                            "leaf": 1,
+                            "criteria": "For Week 1 Subsection, cover at least one connection and communication experience with others and organizations",
+                            "criteria_simplified_version": [
+                                "For Week 1 Subsection, cover at least one connection and communication experience with others and organizations"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 1 Subsection Coverage: Inclusion of Connection and Communication Experiences",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": ".1.1.3",
+                    "leaf": 0,
+                    "criteria": "For Week 2 Subsection:\n    - Cover at least one assignment, task, or activity\n    - Cover at least one happening, event, or observation\n    - Cover at least one connection and communication experience with others and organizations",
+                    "criteria_simplified_version": [
+                        "For Week 2 Subsection, cover at least one assignment, task, or activity",
+                        "For Week 2 Subsection, cover at least one happening, event, or observation",
+                        "For Week 2 Subsection, cover at least one connection and communication experience with others and organizations"
+                    ],
+                    "separate_criteria_number": 3,
+                    "title": "Observation Coverage: Communication Assignment, 2 Significant of Event, Task, Subsection Week Key Inclusion a Experiences Activity Happening, and or Connection",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": null,
+                    "influence_on_scoring": 0.175,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score": null,
+                    "influence_section_type": "partial",
+                    "children": [
+                        {
+                            "id": ".1.1.3.1",
+                            "leaf": 1,
+                            "criteria": "For Week 2 Subsection, cover at least one assignment, task, or activity",
+                            "criteria_simplified_version": [
+                                "For Week 2 Subsection, cover at least one assignment, task, or activity"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 2 Subsection Coverage: Inclusion of a Key Assignment, Task, or Activity",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.3.2",
+                            "leaf": 1,
+                            "criteria": "For Week 2 Subsection, cover at least one happening, event, or observation",
+                            "criteria_simplified_version": [
+                                "For Week 2 Subsection, cover at least one happening, event, or observation"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 2 Subsection Coverage: Inclusion of a Significant Happening, Event, or Observation",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.3.3",
+                            "leaf": 1,
+                            "criteria": "For Week 2 Subsection, cover at least one connection and communication experience with others and organizations",
+                            "criteria_simplified_version": [
+                                "For Week 2 Subsection, cover at least one connection and communication experience with others and organizations"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 2 Subsection Coverage: Inclusion of Connection and Communication Experiences",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": ".1.1.4",
+                    "leaf": 0,
+                    "criteria": "For Week 3 Subsection:\n    - Cover at least one assignment, task, or activity\n    - Cover at least one happening, event, or observation\n    - Cover at least one connection and communication experience with others and organizations",
+                    "criteria_simplified_version": [
+                        "For Week 3 Subsection, cover at least one assignment, task, or activity",
+                        "For Week 3 Subsection, cover at least one happening, event, or observation",
+                        "For Week 3 Subsection, cover at least one connection and communication experience with others and organizations"
+                    ],
+                    "separate_criteria_number": 3,
+                    "title": "Observation Coverage: Communication Assignment, 3 Significant of Event, Task, Subsection Week Key Inclusion a Experiences Activity Happening, and or Connection",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 1,
+                    "score_source": 0.7,
+                    "influence_type": null,
+                    "influence_on_scoring": 0.175,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score": null,
+                    "influence_section_type": "partial",
+                    "children": [
+                        {
+                            "id": ".1.1.4.1",
+                            "leaf": 1,
+                            "criteria": "For Week 3 Subsection, cover at least one assignment, task, or activity",
+                            "criteria_simplified_version": [
+                                "For Week 3 Subsection, cover at least one assignment, task, or activity"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 3 Subsection Coverage: Inclusion of a Key Assignment, Task, or Activity",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.4.2",
+                            "leaf": 1,
+                            "criteria": "For Week 3 Subsection, cover at least one happening, event, or observation",
+                            "criteria_simplified_version": [
+                                "For Week 3 Subsection, cover at least one happening, event, or observation"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 3 Subsection Coverage: Inclusion of a Significant Happening, Event, or Observation",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.1.4.3",
+                            "leaf": 1,
+                            "criteria": "For Week 3 Subsection, cover at least one connection and communication experience with others and organizations",
+                            "criteria_simplified_version": [
+                                "For Week 3 Subsection, cover at least one connection and communication experience with others and organizations"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Week 3 Subsection Coverage: Inclusion of Connection and Communication Experiences",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 1,
+                            "score_source": 0.7,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.05833333333333333,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": ".1.2",
+            "leaf": 0,
+            "criteria": "The document should have critical analysis section\nthe critical analysis section should cover these consept\n- Theoretical concepts with your practical experience during your internship in the organization\n- Execute an overall analysis of the organization.",
+            "criteria_simplified_version": [
+                "The document should have a critical analysis section",
+                "The critical analysis section should cover:\n   - Theoretical concepts with your practical experience during your internship in the organization\n   - Execute an overall analysis of the organization."
+            ],
+            "separate_criteria_number": 2,
+            "title": "Theoretical Organizational Internship Section Integration Critical Document Practical Inclusion Requirement: Section: a of with Concepts Experiences Comprehensive Analysis",
+            "related_answer_section": "whole document",
+            "score_source_ID": 2,
+            "score_source": 0.3,
+            "influence_type": null,
+            "influence_on_scoring": 0.3,
+            "list_sub_condition_score": [],
+            "score_breakdown": [],
+            "matching_percentage": [],
+            "reasons": [],
+            "score": null,
+            "influence_section_type": "partial",
+            "children": [
+                {
+                    "id": ".1.2.1",
+                    "leaf": 1,
+                    "criteria": "The document should have a critical analysis section",
+                    "criteria_simplified_version": [
+                        "The document should have a critical analysis section"
+                    ],
+                    "separate_criteria_number": 1,
+                    "title": "Document Requirement: Inclusion of a Critical Analysis Section",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 2,
+                    "score_source": 0.3,
+                    "influence_type": null,
+                    "influence_on_scoring": 0.15,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score": null,
+                    "influence_section_type": "partial",
+                    "children": []
+                },
+                {
+                    "id": ".1.2.2",
+                    "leaf": 0,
+                    "criteria": "The critical analysis section should cover:\n   - Theoretical concepts with your practical experience during your internship in the organization\n   - Execute an overall analysis of the organization.",
+                    "criteria_simplified_version": [
+                        "The critical analysis section should cover theoretical concepts with your practical experience during your internship in the organization",
+                        "The critical analysis section should execute an overall analysis of the organization."
+                    ],
+                    "separate_criteria_number": 2,
+                    "title": "Theoretical Organizational Internship Experiences Critical Practical Section: of Concepts Integration with Comprehensive Analysis",
+                    "related_answer_section": "whole document",
+                    "score_source_ID": 2,
+                    "score_source": 0.3,
+                    "influence_type": null,
+                    "influence_on_scoring": 0.15,
+                    "list_sub_condition_score": [],
+                    "score_breakdown": [],
+                    "matching_percentage": [],
+                    "reasons": [],
+                    "score": null,
+                    "influence_section_type": "partial",
+                    "children": [
+                        {
+                            "id": ".1.2.2.1",
+                            "leaf": 1,
+                            "criteria": "The critical analysis section should cover theoretical concepts with your practical experience during your internship in the organization",
+                            "criteria_simplified_version": [
+                                "The critical analysis section should cover theoretical concepts with your practical experience during your internship in the organization"
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Critical Analysis Section: Integration of Theoretical Concepts with Practical Internship Experiences",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 2,
+                            "score_source": 0.3,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.075,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        },
+                        {
+                            "id": ".1.2.2.2",
+                            "leaf": 1,
+                            "criteria": "The critical analysis section should execute an overall analysis of the organization.",
+                            "criteria_simplified_version": [
+                                "The critical analysis section should execute an overall analysis of the organization."
+                            ],
+                            "separate_criteria_number": 1,
+                            "title": "Critical Analysis Section: Comprehensive Organizational Analysis",
+                            "related_answer_section": "whole document",
+                            "score_source_ID": 2,
+                            "score_source": 0.3,
+                            "influence_type": null,
+                            "influence_on_scoring": 0.075,
+                            "list_sub_condition_score": [],
+                            "score_breakdown": [],
+                            "matching_percentage": [],
+                            "reasons": [],
+                            "score": null,
+                            "influence_section_type": "partial",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

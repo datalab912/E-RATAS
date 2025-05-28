@@ -1,0 +1,9 @@
+site_name: Yirigaa_NLP
+nav:
+  - Home: index.md
+  - Modules:
+    - ACT: act.md
+    - Job: job.md
+    - Log: log.md
+    - API: api.md
+theme: material
