@@ -1,13 +1,13 @@
-# Yirigaa_NLP
+
 ## Description
 
-Yirigaa_NLP is a repository for my major project on Natural Language Processing.
+the core and DNTs Code related to ACT maun engin of E-RATAS
 
 ## Getting Started
 
 ### 1. Clone the repository:
    ```bash
-   git clone https://github.com/dannguyen99/Yirigaa_NLP
+   git clone [https://github.com/datalab912/E-RATAS]
    ```
 
 ### 2. **Install dependencies:**
@@ -16,8 +16,8 @@ Yirigaa_NLP is a repository for my major project on Natural Language Processing.
    ```
 
 ### 3. Set up your OpenAI API key:
-   * Obtain an API key from [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys)
-   * Set up your API key [https://platform.openai.com/docs/quickstart/step-2-set-up-your-api-key](https://platform.openai.com/docs/quickstart/step-2-set-up-your-api-key)
+   * Obtain an API key from 
+   * Set up your API key 
 
    On MacOs:
    * Export the key as an environment variable `OPENAI_API_KEY`:
