@@ -284,6 +284,13 @@ They serve as examples of how E-RATAS produces transparent, interpretable evalua
 
 ## Structural Feedback Image Examples
 
+<img width="815" height="1349" alt="RKT design22 (1)" src="https://github.com/user-attachments/assets/79b785e1-8446-4766-937a-0e9ff7002bf6" />
+
+
+<img width="679" height="848" alt="RKT design23232343 (1)" src="https://github.com/user-attachments/assets/32745527-1b04-410b-b9e0-bc6b8f4c0e1c" />
+
+<img width="1882" height="1168" alt="Scoring Analysis (1)" src="https://github.com/user-attachments/assets/1ae2a7fa-1d9b-4fe2-ab2d-949b04e9fc54" />
+
 
 
 
